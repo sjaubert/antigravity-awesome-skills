@@ -366,7 +366,7 @@
     "name": "alpha-vantage",
     "description": "Access real-time and historical stock market data, forex rates, cryptocurrency prices, commodities, economic indicators, and 50+ technical indicators via the Alpha Vantage API. Use when fetching stock prices (OHLCV), company fundamentals (income statement, balance sheet, cash...",
     "risk": "unknown",
-    "source": "unknown",
+    "source": "community",
     "date_added": null
   },
   {
@@ -686,7 +686,7 @@
     "name": "apify-trend-analysis",
     "description": "Discover and track emerging trends across Google Trends, Instagram, Facebook, YouTube, and TikTok to inform content strategy.",
     "risk": "unknown",
-    "source": "unknown",
+    "source": "community",
     "date_added": null
   },
   {
@@ -2676,7 +2676,7 @@
     "name": "burpsuite-project-parser",
     "description": "Searches and explores Burp Suite project files (.burp) from the command line. Use when searching response headers or bodies with regex patterns, extracting security audit findings, dumping proxy history or site map data, or analyzing HTTP traffic captured in a Burp project.",
     "risk": "unknown",
-    "source": "unknown",
+    "source": "community",
     "date_added": null
   },
   {
@@ -2986,7 +2986,7 @@
     "name": "claimable-postgres",
     "description": "Provision instant temporary Postgres databases via Claimable Postgres by Neon (pg.new). No login or credit card required. Use for quick Postgres environments and throwaway DATABASE_URL for prototyping.",
     "risk": "unknown",
-    "source": "unknown",
+    "source": "community",
     "date_added": null
   },
   {
@@ -4556,7 +4556,7 @@
     "name": "emergency-card",
     "description": "\u751f\u6210\u7d27\u6025\u60c5\u51b5\u4e0b\u5feb\u901f\u8bbf\u95ee\u7684\u533b\u7597\u4fe1\u606f\u6458\u8981\u5361\u7247\u3002\u5f53\u7528\u6237\u9700\u8981\u65c5\u884c\u3001\u5c31\u8bca\u51c6\u5907\u3001\u7d27\u6025\u60c5\u51b5\u6216\u8be2\u95ee\"\u7d27\u6025\u4fe1\u606f\"\u3001\"\u533b\u7597\u5361\u7247\"\u3001\"\u6025\u6551\u4fe1\u606f\"\u65f6\u4f7f\u7528\u6b64\u6280\u80fd\u3002\u63d0\u53d6\u5173\u952e\u4fe1\u606f\uff08\u8fc7\u654f\u3001\u7528\u836f\u3001\u6025\u75c7\u3001\u690d\u5165\u7269\uff09\uff0c\u652f\u6301\u591a\u683c\u5f0f\u8f93\u51fa\uff08JSON\u3001\u6587\u672c\u3001\u4e8c\u7ef4\u7801\uff09\uff0c\u7528\u4e8e\u6025\u6551\u6216\u5feb\u901f\u5c31\u533b\u3002",
     "risk": "unknown",
-    "source": "unknown",
+    "source": "community",
     "date_added": null
   },
   {
@@ -5016,7 +5016,7 @@
     "name": "filesystem-context",
     "description": "Use for file-based context management, dynamic context discovery, and reducing context window bloat. Offload context to files for just-in-time loading.",
     "risk": "unknown",
-    "source": "unknown",
+    "source": "community",
     "date_added": null
   },
   {
@@ -5814,9 +5814,9 @@
     "path": "skills/google-sheets-automation",
     "category": "uncategorized",
     "name": "google-sheets-automation",
-    "description": "Read and write Google Sheets spreadsheets - get content, update cells, append rows, fetch specific ranges,\nsearch for spreadsheets, and view metadata. Use when user asks to: read a spreadsheet, update cells,\nadd data to Google Sheets, find a spreadsheet, check sheet...",
+    "description": "Read and write Google Sheets spreadsheets - get content, update cells, append rows, fetch specific ranges,\nsearch for spreadsheets, and view metadata. Use when user asks to: read a spreadsheet, update cells,\nadd data to Google Sheets, find a spreadsheet, check sheet...\n",
     "risk": "unknown",
-    "source": "unknown",
+    "source": "community",
     "date_added": null
   },
   {
@@ -6096,7 +6096,7 @@
     "name": "hosted-agents",
     "description": "Build background agents in sandboxed environments. Use for hosted coding agents, sandboxed VMs, Modal sandboxes, and remote coding environments.",
     "risk": "unknown",
-    "source": "unknown",
+    "source": "community",
     "date_added": null
   },
   {
@@ -6476,7 +6476,7 @@
     "name": "iterate-pr",
     "description": "Iterate on a PR until CI passes. Use when you need to fix CI failures, address review feedback, or continuously push fixes until all checks are green. Automates the feedback-fix-push-wait cycle.",
     "risk": "unknown",
-    "source": "unknown",
+    "source": "community",
     "date_added": null
   },
   {
@@ -7064,9 +7064,9 @@
     "path": "skills/makepad-font",
     "category": "uncategorized",
     "name": "makepad-font",
-    "description": "CRITICAL: Use for Makepad font and text rendering. Triggers on:\nmakepad font, makepad text, makepad glyph, makepad typography,\nfont atlas, text layout, font family, font size, text shaping,\nmakepad \u5b57\u4f53, makepad \u6587\u5b57, makepad \u6392\u7248, makepad \u5b57\u5f62",
+    "description": "CRITICAL: Use for Makepad font and text rendering. Triggers on:\nmakepad font, makepad text, makepad glyph, makepad typography,\nfont atlas, text layout, font family, font size, text shaping,\nmakepad \u5b57\u4f53, makepad \u6587\u5b57, makepad \u6392\u7248, makepad \u5b57\u5f62\n",
     "risk": "unknown",
-    "source": "unknown",
+    "source": "community",
     "date_added": null
   },
   {
@@ -8326,7 +8326,7 @@
     "name": "pandas",
     "description": "Pandas",
     "risk": "unknown",
-    "source": "unknown",
+    "source": "community",
     "date_added": null
   },
   {
@@ -9276,7 +9276,7 @@
     "name": "remotion",
     "description": "Generate walkthrough videos from Stitch projects using Remotion with smooth transitions, zooming, and text overlays",
     "risk": "unknown",
-    "source": "unknown",
+    "source": "community",
     "date_added": null
   },
   {
@@ -9576,7 +9576,7 @@
     "name": "scikit-learn",
     "description": "Machine learning in Python with scikit-learn. Use for classification, regression, clustering, model evaluation, and ML pipelines.",
     "risk": "unknown",
-    "source": "unknown",
+    "source": "community",
     "date_added": null
   },
   {
@@ -10166,7 +10166,7 @@
     "name": "skill-writer",
     "description": "Create and improve agent skills following the Agent Skills specification. Use when asked to create, write, or update skills.",
     "risk": "unknown",
-    "source": "unknown",
+    "source": "community",
     "date_added": null
   },
   {
@@ -10176,7 +10176,7 @@
     "name": "skin-health-analyzer",
     "description": "Analyze skin health data, identify skin problem patterns, assess skin health status. Supports correlation analysis with nutrition, chronic diseases, and medication data.",
     "risk": "unknown",
-    "source": "unknown",
+    "source": "community",
     "date_added": null
   },
   {
@@ -11006,7 +11006,7 @@
     "name": "threejs-materials",
     "description": "Three.js materials - PBR, basic, phong, shader materials, material properties. Use when styling meshes, working with textures, creating custom shaders, or optimizing material performance.",
     "risk": "unknown",
-    "source": "unknown",
+    "source": "community",
     "date_added": null
   },
   {
