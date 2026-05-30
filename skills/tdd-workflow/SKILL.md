@@ -1,5 +1,6 @@
 ---
 name: tdd-workflow
+category: frameworks/tdd
 description: "Test-Driven Development workflow principles. RED-GREEN-REFACTOR cycle."
 risk: unknown
 source: community

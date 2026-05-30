@@ -1,5 +1,6 @@
 ---
 name: skill-writer
+category: content/writing
 description: Create and improve agent skills following the Agent Skills specification. Use when asked to create, write, or update skills.
 risk: unknown
 source: community

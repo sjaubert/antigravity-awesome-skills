@@ -1,5 +1,6 @@
 ---
 name: network-engineer
+category: devops
 description: Expert network engineer specializing in modern cloud networking, security architectures, and performance optimization.
 risk: unknown
 source: community

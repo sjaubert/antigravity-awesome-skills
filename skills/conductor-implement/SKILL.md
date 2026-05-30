@@ -1,5 +1,6 @@
 ---
 name: conductor-implement
+category: frameworks/conductor
 description: "Execute tasks from a track's implementation plan following TDD workflow"
 risk: unknown
 source: community

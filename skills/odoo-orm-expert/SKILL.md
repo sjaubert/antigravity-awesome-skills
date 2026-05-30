@@ -1,5 +1,6 @@
 ---
 name: odoo-orm-expert
+category: domains/odoo
 description: "Master Odoo ORM patterns: search, browse, create, write, domain filters, computed fields, and performance-safe query techniques."
 risk: safe
 source: "self"

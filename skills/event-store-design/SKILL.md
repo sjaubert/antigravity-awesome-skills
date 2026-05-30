@@ -1,5 +1,6 @@
 ---
 name: event-store-design
+category: architecture
 description: "Design and implement event stores for event-sourced systems. Use when building event sourcing infrastructure, choosing event store technologies, or implementing event persistence patterns."
 risk: unknown
 source: community

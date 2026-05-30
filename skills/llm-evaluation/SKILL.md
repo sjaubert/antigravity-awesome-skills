@@ -1,5 +1,6 @@
 ---
 name: llm-evaluation
+category: ai-ml
 description: "Implement comprehensive evaluation strategies for LLM applications using automated metrics, human feedback, and benchmarking. Use when testing LLM performance, measuring AI application quality, or ..."
 risk: unknown
 source: community

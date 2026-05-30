@@ -1,5 +1,6 @@
 ---
 name: google-drive-automation
+category: automation/productivity
 description: |
   Interact with Google Drive - search files, find folders, list contents, download files, upload files,
   create folders, move, copy, rename, and trash files. Use when user asks to: search Google Drive,

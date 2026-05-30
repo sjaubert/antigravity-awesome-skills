@@ -1,5 +1,6 @@
 ---
 name: jupyter-workflow
+category: uncategorized
 description: Jupyter Workflow
 ---
 

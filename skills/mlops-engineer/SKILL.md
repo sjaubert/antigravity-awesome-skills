@@ -1,5 +1,6 @@
 ---
 name: mlops-engineer
+category: ai-ml
 description: Build comprehensive ML pipelines, experiment tracking, and model registries with MLflow, Kubeflow, and modern MLOps tools.
 risk: unknown
 source: community

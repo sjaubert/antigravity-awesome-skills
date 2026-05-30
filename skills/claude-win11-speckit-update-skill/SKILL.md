@@ -1,5 +1,6 @@
 ---
 name: claude-win11-speckit-update-skill
+category: uncategorized
 description: "Windows 11 system management"
 risk: safe
 source: "https://github.com/NotMyself/claude-win11-speckit-update-skill"

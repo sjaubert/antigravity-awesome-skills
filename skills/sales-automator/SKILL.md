@@ -1,5 +1,6 @@
 ---
 name: sales-automator
+category: business
 description: 'Draft cold emails, follow-ups, and proposal templates. Creates
 
   pricing pages, case studies, and sales scripts. Use PROACTIVELY for sales

@@ -1,5 +1,6 @@
 ---
 name: azure-mgmt-fabric-dotnet
+category: cloud/azure
 description: Azure Resource Manager SDK for Fabric in .NET.
 risk: unknown
 source: community

@@ -1,5 +1,6 @@
 ---
 name: gmail-automation
+category: automation/communication
 description: |
   Interact with Gmail - search emails, read messages, send emails, create drafts, and manage labels.
   Use when user asks to: search email, read email, send email, create email draft, mark as read,

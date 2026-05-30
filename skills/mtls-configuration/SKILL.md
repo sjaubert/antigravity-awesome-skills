@@ -1,5 +1,6 @@
 ---
 name: mtls-configuration
+category: devops
 description: "Configure mutual TLS (mTLS) for zero-trust service-to-service communication. Use when implementing zero-trust networking, certificate management, or securing internal service communication."
 risk: unknown
 source: community

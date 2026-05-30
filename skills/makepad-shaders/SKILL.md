@@ -1,5 +1,6 @@
 ---
 name: makepad-shaders
+category: frameworks/makepad
 description: |
   CRITICAL: Use for Makepad shader system. Triggers on:
   makepad shader, makepad draw_bg, Sdf2d, makepad pixel,

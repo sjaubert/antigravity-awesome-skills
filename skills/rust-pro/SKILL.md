@@ -1,5 +1,6 @@
 ---
 name: rust-pro
+category: languages/rust
 description: Master Rust 1.75+ with modern async patterns, advanced type system features, and production-ready systems programming.
 risk: unknown
 source: community

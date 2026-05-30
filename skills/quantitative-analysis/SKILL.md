@@ -1,5 +1,6 @@
 ---
 name: quantitative-analysis
+category: domains/finance
 description: Quantitative Analysis
 ---
 

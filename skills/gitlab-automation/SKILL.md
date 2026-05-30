@@ -1,5 +1,6 @@
 ---
 name: gitlab-automation
+category: tooling/git
 description: "Automate GitLab project management, issues, merge requests, pipelines, branches, and user operations via Rube MCP (Composio). Always search tools first for current schemas."
 risk: unknown
 source: community

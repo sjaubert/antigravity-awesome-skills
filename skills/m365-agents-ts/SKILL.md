@@ -1,5 +1,6 @@
 ---
 name: m365-agents-ts
+category: cloud/azure
 description: Microsoft 365 Agents SDK for TypeScript/Node.js.
 risk: unknown
 source: community

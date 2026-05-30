@@ -1,5 +1,6 @@
 ---
 name: angular-migration
+category: frameworks/angular
 description: "Migrate from AngularJS to Angular using hybrid mode, incremental component rewriting, and dependency injection updates. Use when upgrading AngularJS applications, planning framework migrations, or ..."
 risk: unknown
 source: community

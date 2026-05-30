@@ -1,5 +1,6 @@
 ---
 name: terraform-module-library
+category: devops
 description: "Build reusable Terraform modules for AWS, Azure, and GCP infrastructure following infrastructure-as-code best practices. Use when creating infrastructure modules, standardizing cloud provisioning, ..."
 risk: unknown
 source: community

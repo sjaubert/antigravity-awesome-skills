@@ -1,5 +1,6 @@
 ---
 name: cicd-automation-workflow-automate
+category: devops
 description: "You are a workflow automation expert specializing in creating efficient CI/CD pipelines, GitHub Actions workflows, and automated development processes. Design automation that reduces manual work, i..."
 risk: unknown
 source: community

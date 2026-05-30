@@ -1,5 +1,6 @@
 ---
 name: backtesting-frameworks
+category: domains/finance
 description: "Build robust backtesting systems for trading strategies with proper handling of look-ahead bias, survivorship bias, and transaction costs. Use when developing trading algorithms, validating strateg..."
 risk: unknown
 source: community

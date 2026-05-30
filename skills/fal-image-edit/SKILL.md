@@ -1,5 +1,6 @@
 ---
 name: fal-image-edit
+category: ai-ml
 description: "AI-powered image editing with style transfer and object removal"
 risk: safe
 source: "https://github.com/fal-ai-community/skills/blob/main/skills/claude.ai/fal-image-edit/SKILL.md"

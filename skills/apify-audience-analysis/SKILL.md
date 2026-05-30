@@ -1,5 +1,6 @@
 ---
 name: apify-audience-analysis
+category: domains/apify
 description: Understand audience demographics, preferences, behavior patterns, and engagement quality across Facebook, Instagram, YouTube, and TikTok.
 ---
 

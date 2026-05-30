@@ -1,5 +1,6 @@
 ---
 name: odoo-upgrade-advisor
+category: domains/odoo
 description: "Step-by-step Odoo version upgrade advisor: pre-upgrade checklist, community vs enterprise upgrade path, OCA module compatibility, and post-upgrade validation."
 risk: safe
 source: "self"

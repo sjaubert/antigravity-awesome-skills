@@ -1,5 +1,6 @@
 ---
 name: backend-architect
+category: architecture
 description: Expert backend architect specializing in scalable API design, microservices architecture, and distributed systems.
 risk: unknown
 source: community

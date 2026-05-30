@@ -1,5 +1,6 @@
 ---
 name: customer-support
+category: business
 description: Elite AI-powered customer support specialist mastering conversational AI, automated ticketing, sentiment analysis, and omnichannel support experiences.
 risk: unknown
 source: community

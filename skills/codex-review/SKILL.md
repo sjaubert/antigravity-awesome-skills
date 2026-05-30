@@ -1,5 +1,6 @@
 ---
 name: codex-review
+category: uncategorized
 description: "Professional code review with auto CHANGELOG generation, integrated with Codex AI"
 risk: unknown
 source: community

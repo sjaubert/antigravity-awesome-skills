@@ -1,5 +1,6 @@
 ---
 name: startup-metrics-framework
+category: business
 description: This skill should be used when the user asks about \\\"key startup metrics", "SaaS metrics", "CAC and LTV", "unit economics", "burn multiple", "rule of 40", "marketplace metrics", or requests...
 risk: unknown
 source: community

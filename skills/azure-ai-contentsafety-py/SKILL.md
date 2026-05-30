@@ -1,5 +1,6 @@
 ---
 name: azure-ai-contentsafety-py
+category: cloud/azure
 description: Azure AI Content Safety SDK for Python. Use for detecting harmful content in text and images with multi-severity classification.
 risk: unknown
 source: community

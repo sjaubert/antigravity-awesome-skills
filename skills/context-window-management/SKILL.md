@@ -1,5 +1,6 @@
 ---
 name: context-window-management
+category: ai-ml
 description: "Strategies for managing LLM context windows including summarization, trimming, routing, and avoiding context rot Use when: context window, token limit, context management, context engineering, long..."
 risk: unknown
 source: "vibeship-spawner-skills (Apache 2.0)"

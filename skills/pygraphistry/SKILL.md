@@ -1,5 +1,6 @@
 ---
 name: pygraphistry
+category: uncategorized
 description: Pygraphistry
 ---
 

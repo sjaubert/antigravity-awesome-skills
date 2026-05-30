@@ -1,5 +1,6 @@
 ---
 name: pypict-skill
+category: uncategorized
 description: "Pairwise test generation"
 risk: safe
 source: "https://github.com/omkamal/pypict-claude-skill/blob/main/SKILL.md"

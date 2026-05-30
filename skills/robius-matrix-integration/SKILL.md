@@ -1,5 +1,6 @@
 ---
 name: robius-matrix-integration
+category: frameworks/robius
 description: |
   CRITICAL: Use for Matrix SDK integration with Makepad. Triggers on:
   Matrix SDK, sliding sync, MatrixRequest, timeline,

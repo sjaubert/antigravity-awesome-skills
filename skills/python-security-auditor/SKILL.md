@@ -1,5 +1,6 @@
 ---
 name: python-security-auditor
+category: security
 description: Python Security Auditor
 ---
 

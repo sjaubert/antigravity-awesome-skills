@@ -1,5 +1,6 @@
 ---
 name: code-refactoring-context-restore
+category: uncategorized
 description: "Use when working with code refactoring context restore"
 risk: unknown
 source: community

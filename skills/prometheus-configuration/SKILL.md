@@ -1,5 +1,6 @@
 ---
 name: prometheus-configuration
+category: devops
 description: "Set up Prometheus for comprehensive metric collection, storage, and monitoring of infrastructure and applications. Use when implementing metrics collection, setting up monitoring infrastructure, or..."
 risk: unknown
 source: community

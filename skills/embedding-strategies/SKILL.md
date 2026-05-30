@@ -1,5 +1,6 @@
 ---
 name: embedding-strategies
+category: ai-ml
 description: "Select and optimize embedding models for semantic search and RAG applications. Use when choosing embedding models, implementing chunking strategies, or optimizing embedding quality for specific dom..."
 risk: unknown
 source: community

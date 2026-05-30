@@ -1,5 +1,6 @@
 ---
 name: referral-program
+category: frontend/cro
 description: "When the user wants to create, optimize, or analyze a referral program, affiliate program, or word-of-mouth strategy. Also use when the user mentions 'referral,' 'affiliate,' 'ambassador,' 'word of..."
 risk: unknown
 source: community

@@ -1,5 +1,6 @@
 ---
 name: zapier-make-patterns
+category: automation/tools
 description: "No-code automation democratizes workflow building. Zapier and Make (formerly Integromat) let non-developers automate business processes without writing code. But no-code doesn't mean no-complexity ..."
 risk: unknown
 source: "vibeship-spawner-skills (Apache 2.0)"

@@ -1,5 +1,6 @@
 ---
 name: azure-monitor-opentelemetry-ts
+category: cloud/azure
 description: "Instrument applications with Azure Monitor and OpenTelemetry for JavaScript (@azure/monitor-opentelemetry). Use when adding distributed tracing, metrics, and logs to Node.js applications with Appli..."
 risk: unknown
 source: community

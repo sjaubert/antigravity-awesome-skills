@@ -1,5 +1,6 @@
 ---
 name: interactive-portfolio
+category: frontend/design
 description: "Expert in building portfolios that actually land jobs and clients - not just showing work, but creating memorable experiences. Covers developer portfolios, designer portfolios, creative portfolios,..."
 risk: unknown
 source: "vibeship-spawner-skills (Apache 2.0)"

@@ -1,5 +1,6 @@
 ---
 name: mobile-design
+category: mobile
 description: "Mobile-first design and engineering doctrine for iOS and Android apps. Covers touch interaction, performance, platform conventions, offline behavior, and mobile-specific decision-making. Teaches pr..."
 risk: unknown
 source: community

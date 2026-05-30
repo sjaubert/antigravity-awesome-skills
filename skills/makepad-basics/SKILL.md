@@ -1,5 +1,6 @@
 ---
 name: makepad-basics
+category: frameworks/makepad
 description: |
   CRITICAL: Use for Makepad getting started and app structure. Triggers on:
   makepad, makepad getting started, makepad tutorial, live_design!, app_main!,

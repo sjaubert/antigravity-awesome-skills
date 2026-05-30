@@ -1,5 +1,6 @@
 ---
 name: 3d-games
+category: games
 description: "3D game development principles. Rendering, shaders, physics, cameras."
 risk: unknown
 source: community

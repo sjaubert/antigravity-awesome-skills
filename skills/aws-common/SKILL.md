@@ -1,5 +1,6 @@
 ---
 name: aws-common
+category: cloud/aws
 description: Aws Common
 ---
 

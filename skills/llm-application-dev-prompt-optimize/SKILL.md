@@ -1,5 +1,6 @@
 ---
 name: llm-application-dev-prompt-optimize
+category: ai-ml
 description: "You are an expert prompt engineer specializing in crafting effective prompts for LLMs through advanced techniques including constitutional AI, chain-of-thought reasoning, and model-specific optimizati"
 risk: unknown
 source: community

@@ -1,5 +1,6 @@
 ---
 name: seo-snippet-hunter
+category: domains/seo
 description: Formats content to be eligible for featured snippets and SERP features. Creates snippet-optimized content blocks based on best practices. Use PROACTIVELY for question-based content.
 risk: unknown
 source: community

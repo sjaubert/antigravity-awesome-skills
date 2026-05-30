@@ -1,5 +1,6 @@
 ---
 name: static-analysis
+category: security
 description: Static Analysis
 ---
 

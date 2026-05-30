@@ -1,5 +1,6 @@
 ---
 name: umap
+category: uncategorized
 description: Umap
 ---
 

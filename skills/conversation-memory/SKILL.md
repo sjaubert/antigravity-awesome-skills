@@ -1,5 +1,6 @@
 ---
 name: conversation-memory
+category: ai-ml
 description: "Persistent memory systems for LLM conversations including short-term, long-term, and entity-based memory Use when: conversation memory, remember, memory persistence, long-term memory, chat history."
 risk: unknown
 source: "vibeship-spawner-skills (Apache 2.0)"

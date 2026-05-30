@@ -1,5 +1,6 @@
 ---
 name: workflow-skill-design
+category: uncategorized
 description: Workflow Skill Design
 ---
 

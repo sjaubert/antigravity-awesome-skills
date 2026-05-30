@@ -1,5 +1,6 @@
 ---
 name: skill-scanner
+category: meta
 description: Scan agent skills for security issues. Use when asked to "scan a skill",
   "audit a skill", "review skill security", "check skill for injection", "validate SKILL.md",
   or assess whether an agent skill is safe to install. Checks for prompt injection,

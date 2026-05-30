@@ -1,5 +1,6 @@
 ---
 name: great-tables
+category: uncategorized
 description: Great Tables
 ---
 

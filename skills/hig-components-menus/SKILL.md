@@ -1,5 +1,6 @@
 ---
 name: hig-components-menus
+category: frameworks/hig
 description: Apple HIG guidance for menu and button components including menus, context menus, dock menus, edit menus, the menu bar, toolbars, action buttons, pop-up buttons, pull-down buttons, disclosure...
 risk: unknown
 source: community

@@ -1,5 +1,6 @@
 ---
 # agentskills.io compliant frontmatter
+category: meta
 name: clarity-gate
 version: 2.1.3
 description: >

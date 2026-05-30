@@ -1,5 +1,6 @@
 ---
 name: security-scanning-security-hardening
+category: security
 description: "Coordinate multi-layer security scanning and hardening across application, infrastructure, and compliance controls."
 risk: unknown
 source: community

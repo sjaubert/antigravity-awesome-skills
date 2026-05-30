@@ -1,5 +1,6 @@
 ---
 name: cirq
+category: uncategorized
 description: Google quantum computing framework. Use when targeting Google Quantum AI hardware, designing noise-aware circuits, or running quantum characterization experiments. Best for Google hardware, noise modeling, and low-level circuit design. For IBM hardware use qiskit; for quantum...
 --- Apache-2.0 license
 metadata:

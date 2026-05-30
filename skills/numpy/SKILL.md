@@ -1,5 +1,6 @@
 ---
 name: numpy
+category: uncategorized
 description: Numpy
 ---
 

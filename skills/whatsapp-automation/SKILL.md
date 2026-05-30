@@ -1,5 +1,6 @@
 ---
 name: whatsapp-automation
+category: automation/communication
 description: "Automate WhatsApp Business tasks via Rube MCP (Composio): send messages, manage templates, upload media, and handle contacts. Always search tools first for current schemas."
 risk: unknown
 source: community

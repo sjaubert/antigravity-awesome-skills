@@ -1,5 +1,6 @@
 ---
 name: freshdesk-automation
+category: automation/crm
 description: "Automate Freshdesk helpdesk operations including tickets, contacts, companies, notes, and replies via Rube MCP (Composio). Always search tools first for current schemas."
 risk: unknown
 source: community

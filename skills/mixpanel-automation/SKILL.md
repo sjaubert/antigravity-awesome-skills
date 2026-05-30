@@ -1,5 +1,6 @@
 ---
 name: mixpanel-automation
+category: automation/analytics
 description: "Automate Mixpanel tasks via Rube MCP (Composio): events, segmentation, funnels, cohorts, user profiles, JQL queries. Always search tools first for current schemas."
 risk: unknown
 source: community

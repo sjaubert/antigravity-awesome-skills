@@ -1,5 +1,6 @@
 ---
 name: typescript-pro
+category: languages/typescript
 description: Master TypeScript with advanced types, generics, and strict type safety. Handles complex type systems, decorators, and enterprise-grade patterns.
 risk: unknown
 source: community

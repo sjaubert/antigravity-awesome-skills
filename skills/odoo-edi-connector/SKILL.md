@@ -1,5 +1,6 @@
 ---
 name: odoo-edi-connector
+category: domains/odoo
 description: "Guide for implementing EDI (Electronic Data Interchange) with Odoo: X12, EDIFACT document mapping, partner onboarding, and automated order processing."
 ---
 

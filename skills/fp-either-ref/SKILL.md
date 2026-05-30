@@ -1,5 +1,6 @@
 ---
 name: fp-either-ref
+category: frameworks/fp-ts
 description: Quick reference for Either type. Use when user needs error handling, validation, or operations that can fail with typed errors.
 version: 1.0.0
 tags: [fp-ts, either, error-handling, validation, quick-reference]

@@ -1,5 +1,6 @@
 ---
 name: hierarchical-agent-memory
+category: ai-ml
 description: "Scoped CLAUDE.md memory system that reduces context token spend. Creates directory-level context files, tracks savings via dashboard, and routes agents to the right sub-context."
 risk: safe
 source: "https://github.com/kromahlusenii-ops/ham"

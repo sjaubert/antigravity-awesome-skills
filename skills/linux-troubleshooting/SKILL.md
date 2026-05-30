@@ -1,7 +1,7 @@
 ---
 name: linux-troubleshooting
 description: "Linux system troubleshooting workflow for diagnosing and resolving system issues, performance problems, and service failures."
-category: granular-workflow-bundle
+category: devops
 risk: safe
 source: personal
 date_added: "2026-02-27"

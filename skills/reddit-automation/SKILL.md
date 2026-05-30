@@ -1,5 +1,6 @@
 ---
 name: reddit-automation
+category: automation/social
 description: "Automate Reddit tasks via Rube MCP (Composio): search subreddits, create posts, manage comments, and browse top content. Always search tools first for current schemas."
 risk: unknown
 source: community

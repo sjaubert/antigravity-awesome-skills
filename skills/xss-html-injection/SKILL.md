@@ -1,5 +1,6 @@
 ---
 name: xss-html-injection
+category: security
 description: "This skill should be used when the user asks to \"test for XSS vulnerabilities\", \"perform cross-site scripting attacks\", \"identify HTML injection flaws\", \"exploit client-side injection..."
 risk: unknown
 source: community

@@ -1,5 +1,6 @@
 ---
 name: makepad-deployment
+category: frameworks/makepad
 description: |
   CRITICAL: Use for Makepad packaging and deployment. Triggers on:
   deploy, package, APK, IPA, 打包, 部署,

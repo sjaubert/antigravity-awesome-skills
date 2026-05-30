@@ -1,5 +1,6 @@
 ---
 name: geo-fundamentals
+category: uncategorized
 description: "Generative Engine Optimization for AI search engines (ChatGPT, Claude, Perplexity)."
 risk: unknown
 source: community

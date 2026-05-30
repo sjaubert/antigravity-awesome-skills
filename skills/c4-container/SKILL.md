@@ -1,5 +1,6 @@
 ---
 name: c4-container
+category: frameworks/c4
 description: Expert C4 Container-level documentation specialist.
 risk: unknown
 source: community

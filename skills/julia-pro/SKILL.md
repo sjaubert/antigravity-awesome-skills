@@ -1,5 +1,6 @@
 ---
 name: julia-pro
+category: languages/functional
 description: Master Julia 1.10+ with modern features, performance optimization, multiple dispatch, and production-ready practices.
 risk: unknown
 source: community

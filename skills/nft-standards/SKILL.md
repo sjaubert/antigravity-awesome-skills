@@ -1,5 +1,6 @@
 ---
 name: nft-standards
+category: domains/web3
 description: "Implement NFT standards (ERC-721, ERC-1155) with proper metadata handling, minting strategies, and marketplace integration. Use when creating NFT contracts, building NFT marketplaces, or implementi..."
 risk: unknown
 source: community

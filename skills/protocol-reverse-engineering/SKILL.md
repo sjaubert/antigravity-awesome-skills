@@ -1,5 +1,6 @@
 ---
 name: protocol-reverse-engineering
+category: security
 description: "Master network protocol reverse engineering including packet analysis, protocol dissection, and custom protocol documentation. Use when analyzing network traffic, understanding proprietary protocol..."
 risk: unknown
 source: community

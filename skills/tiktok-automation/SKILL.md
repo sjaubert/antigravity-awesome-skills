@@ -1,5 +1,6 @@
 ---
 name: tiktok-automation
+category: automation/social
 description: "Automate TikTok tasks via Rube MCP (Composio): upload/publish videos, post photos, manage content, and view user profiles/stats. Always search tools first for current schemas."
 risk: unknown
 source: community

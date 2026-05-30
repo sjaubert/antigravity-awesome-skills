@@ -1,5 +1,6 @@
 ---
 name: multi-agent-brainstorming
+category: ai-ml
 description: "Simulate a structured peer-review process using multiple specialized agents to validate designs, surface hidden assumptions, and identify failure modes before implementation."
 risk: unknown
 source: community

@@ -1,5 +1,6 @@
 ---
 name: food-database-query
+category: database
 description: Food Database Query
 ---
 

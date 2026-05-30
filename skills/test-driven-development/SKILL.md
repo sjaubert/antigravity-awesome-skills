@@ -1,5 +1,6 @@
 ---
 name: test-driven-development
+category: testing
 description: "Use when implementing any feature or bugfix, before writing implementation code"
 risk: unknown
 source: community

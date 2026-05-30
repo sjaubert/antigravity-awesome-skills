@@ -1,5 +1,6 @@
 ---
 name: unit-testing-test-generate
+category: uncategorized
 description: "Generate comprehensive, maintainable unit tests across languages with strong coverage and edge case focus."
 risk: unknown
 source: community

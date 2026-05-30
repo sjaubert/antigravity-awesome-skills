@@ -1,5 +1,6 @@
 ---
 name: linkedin-automation
+category: automation/social
 description: "Automate LinkedIn tasks via Rube MCP (Composio): create posts, manage profile, company info, comments, and image uploads. Always search tools first for current schemas."
 risk: unknown
 source: community

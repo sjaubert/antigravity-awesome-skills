@@ -1,5 +1,6 @@
 ---
 name: 2d-games
+category: games
 description: "2D game development principles. Sprites, tilemaps, physics, camera."
 risk: unknown
 source: community

@@ -1,5 +1,6 @@
 ---
 name: building-secure-contracts
+category: security
 description: Building Secure Contracts
 ---
 

@@ -1,5 +1,6 @@
 ---
 name: research-engineer
+category: uncategorized
 description: Research Engineer
 ---
 

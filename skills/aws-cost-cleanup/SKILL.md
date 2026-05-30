@@ -1,5 +1,6 @@
 ---
 name: aws-cost-cleanup
+category: cloud/aws
 description: "Automated cleanup of unused AWS resources to reduce costs"
 risk: safe
 source: community

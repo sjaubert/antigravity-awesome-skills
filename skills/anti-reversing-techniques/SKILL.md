@@ -1,5 +1,6 @@
 ---
 name: anti-reversing-techniques
+category: security
 description: "Understand anti-reversing, obfuscation, and protection techniques encountered during software analysis. Use when analyzing protected binaries, bypassing anti-debugging for authorized analysis, or u..."
 risk: unknown
 source: community

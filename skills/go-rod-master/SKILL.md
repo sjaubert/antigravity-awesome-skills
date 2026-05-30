@@ -1,5 +1,6 @@
 ---
 name: go-rod-master
+category: languages/go
 description: "Comprehensive guide for browser automation and web scraping with go-rod (Chrome DevTools Protocol) including stealth anti-bot-detection patterns."
 risk: safe
 source: "https://github.com/go-rod/rod"

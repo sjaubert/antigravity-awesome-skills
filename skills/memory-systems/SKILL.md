@@ -1,5 +1,6 @@
 ---
 name: memory-systems
+category: ai-ml
 description: "Design short-term, long-term, and graph-based memory architectures"
 risk: safe
 source: "https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering/tree/main/skills/memory-systems"

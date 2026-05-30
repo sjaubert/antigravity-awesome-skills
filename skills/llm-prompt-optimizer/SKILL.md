@@ -1,5 +1,6 @@
 ---
 name: llm-prompt-optimizer
+category: ai-ml
 description: "Use when improving prompts for any LLM. Applies proven prompt engineering techniques to boost output quality, reduce hallucinations, and cut token usage."
 risk: safe
 source: community

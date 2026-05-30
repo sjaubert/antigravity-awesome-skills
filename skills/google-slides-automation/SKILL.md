@@ -1,5 +1,6 @@
 ---
 name: google-slides-automation
+category: automation/productivity
 description: |
   Read and write Google Slides presentations - get text, find presentations, create presentations, add slides,
   replace text, and manage slide content. Use when user asks to: read a presentation, create slides, find slides,

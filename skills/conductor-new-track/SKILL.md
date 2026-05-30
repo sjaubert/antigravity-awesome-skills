@@ -1,5 +1,6 @@
 ---
 name: conductor-new-track
+category: frameworks/conductor
 description: "Create a new track with specification and phased implementation plan"
 risk: unknown
 source: community

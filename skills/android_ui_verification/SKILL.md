@@ -1,5 +1,6 @@
 ---
 name: android_ui_verification
+category: mobile
 description: Automated end-to-end UI testing and verification on an Android Emulator using ADB.
 risk: safe
 source: community

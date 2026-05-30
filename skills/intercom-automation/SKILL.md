@@ -1,5 +1,6 @@
 ---
 name: intercom-automation
+category: automation/crm
 description: "Automate Intercom tasks via Rube MCP (Composio): conversations, contacts, companies, segments, admins. Always search tools first for current schemas."
 risk: unknown
 source: community

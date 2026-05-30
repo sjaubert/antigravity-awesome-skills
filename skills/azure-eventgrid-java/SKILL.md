@@ -1,5 +1,6 @@
 ---
 name: azure-eventgrid-java
+category: cloud/azure
 description: "Build event-driven applications with Azure Event Grid SDK for Java. Use when publishing events, implementing pub/sub patterns, or integrating with Azure services via events."
 risk: unknown
 source: community

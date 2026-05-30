@@ -1,5 +1,6 @@
 ---
 name: expo-ui-jetpack-compose
+category: frameworks/expo
 description: expo-ui-jetpack-compose
 ---
 

@@ -1,5 +1,6 @@
 ---
 name: mailchimp-automation
+category: automation/communication
 description: "Automate Mailchimp email marketing including campaigns, audiences, subscribers, segments, and analytics via Rube MCP (Composio). Always search tools first for current schemas."
 risk: unknown
 source: community

@@ -1,5 +1,6 @@
 ---
 name: hig-components-layout
+category: frameworks/hig
 description: Apple Human Interface Guidelines for layout and navigation components.
 risk: unknown
 source: community

@@ -1,5 +1,6 @@
 ---
 name: seo-meta-optimizer
+category: domains/seo
 description: Creates optimized meta titles, descriptions, and URL suggestions based on character limits and best practices. Generates compelling, keyword-rich metadata. Use PROACTIVELY for new content.
 risk: unknown
 source: community

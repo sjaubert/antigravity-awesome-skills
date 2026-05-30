@@ -1,5 +1,6 @@
 ---
 name: conductor-status
+category: frameworks/conductor
 description: "Display project status, active tracks, and next actions"
 risk: unknown
 source: community

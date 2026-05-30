@@ -1,5 +1,6 @@
 ---
 name: incident-responder
+category: devops
 description: Expert SRE incident responder specializing in rapid problem resolution, modern observability, and comprehensive incident management.
 risk: unknown
 source: community

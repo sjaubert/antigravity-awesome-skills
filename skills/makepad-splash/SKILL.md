@@ -1,5 +1,6 @@
 ---
 name: makepad-splash
+category: frameworks/makepad
 description: |
   CRITICAL: Use for Makepad Splash scripting language. Triggers on:
   splash language, makepad script, makepad scripting, script!, cx.eval,

@@ -1,5 +1,6 @@
 ---
 name: aws-skills
+category: cloud/aws
 description: "AWS development with infrastructure automation and cloud architecture patterns"
 risk: safe
 source: "https://github.com/zxkane/aws-skills"

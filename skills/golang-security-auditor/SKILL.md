@@ -1,5 +1,6 @@
 ---
 name: golang-security-auditor
+category: security
 description: Golang Security Auditor
 ---
 

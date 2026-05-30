@@ -1,5 +1,6 @@
 ---
 name: exa-search
+category: uncategorized
 description: "Semantic search, similar content discovery, and structured research using Exa API"
 risk: unknown
 source: community

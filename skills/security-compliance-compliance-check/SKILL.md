@@ -1,5 +1,6 @@
 ---
 name: security-compliance-compliance-check
+category: security
 description: "You are a compliance expert specializing in regulatory requirements for software systems including GDPR, HIPAA, SOC2, PCI-DSS, and other industry standards. Perform compliance audits and provide im..."
 risk: unknown
 source: community

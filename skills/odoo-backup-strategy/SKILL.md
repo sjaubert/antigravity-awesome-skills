@@ -1,5 +1,6 @@
 ---
 name: odoo-backup-strategy
+category: domains/odoo
 description: "Complete Odoo backup and restore strategy: database dumps, filestore backup, automated scheduling, cloud storage upload, and tested restore procedures."
 risk: safe
 source: "self"

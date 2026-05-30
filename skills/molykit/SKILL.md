@@ -1,5 +1,6 @@
 ---
 name: molykit
+category: uncategorized
 description: |
   CRITICAL: Use for MolyKit AI chat toolkit. Triggers on:
   BotClient, OpenAI, SSE streaming, AI chat, molykit,

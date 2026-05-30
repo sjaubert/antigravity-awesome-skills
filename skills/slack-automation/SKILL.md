@@ -1,5 +1,6 @@
 ---
 name: slack-automation
+category: automation/communication
 description: "Automate Slack messaging, channel management, search, reactions, and threads via Rube MCP (Composio). Send messages, search conversations, manage channels/users, and react to messages programmatica..."
 risk: unknown
 source: community

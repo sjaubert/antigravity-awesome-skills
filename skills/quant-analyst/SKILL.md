@@ -1,5 +1,6 @@
 ---
 name: quant-analyst
+category: domains/finance
 description: Build financial models, backtest trading strategies, and analyze market data. Implements risk metrics, portfolio optimization, and statistical arbitrage.
 risk: unknown
 source: community

@@ -1,5 +1,6 @@
 ---
 name: framework-migration-legacy-modernize
+category: uncategorized
 description: "Orchestrate a comprehensive legacy system modernization using the strangler fig pattern, enabling gradual replacement of outdated components while maintaining continuous business operations through ex"
 risk: unknown
 source: community

@@ -1,5 +1,6 @@
 ---
 name: observability-monitoring-slo-implement
+category: devops
 description: "You are an SLO (Service Level Objective) expert specializing in implementing reliability standards and error budget-based practices. Design SLO frameworks, define SLIs, and build monitoring that ba..."
 risk: unknown
 source: community

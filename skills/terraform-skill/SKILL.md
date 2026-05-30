@@ -1,5 +1,6 @@
 ---
 name: terraform-skill
+category: devops
 description: "Terraform infrastructure as code best practices"
 risk: safe
 source: "https://github.com/antonbabenko/terraform-skill"

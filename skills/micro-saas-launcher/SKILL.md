@@ -1,5 +1,6 @@
 ---
 name: micro-saas-launcher
+category: business
 description: "Expert in launching small, focused SaaS products fast - the indie hacker approach to building profitable software. Covers idea validation, MVP development, pricing, launch strategies, and growing t..."
 risk: unknown
 source: "vibeship-spawner-skills (Apache 2.0)"

@@ -1,5 +1,6 @@
 ---
 name: team-collaboration-issue
+category: uncategorized
 description: "You are a GitHub issue resolution expert specializing in systematic bug investigation, feature implementation, and collaborative development workflows. Your expertise spans issue triage, root cause an"
 risk: unknown
 source: community

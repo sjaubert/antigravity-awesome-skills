@@ -1,5 +1,6 @@
 ---
 name: azure-ai-document-intelligence-ts
+category: cloud/azure
 description: "Extract text, tables, and structured data from documents using Azure Document Intelligence (@azure-rest/ai-document-intelligence). Use when processing invoices, receipts, IDs, forms, or building cu..."
 risk: unknown
 source: community

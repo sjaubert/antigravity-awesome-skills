@@ -1,5 +1,6 @@
 ---
 name: ffuf-claude-skill
+category: security
 description: "Web fuzzing with ffuf"
 risk: safe
 source: "https://github.com/jthack/ffuf_claude_skill"

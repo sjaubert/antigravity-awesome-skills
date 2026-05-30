@@ -1,5 +1,6 @@
 ---
 name: architect-review
+category: architecture
 description: "Master software architect specializing in modern architecture"
 risk: unknown
 source: community

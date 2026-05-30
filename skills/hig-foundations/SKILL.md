@@ -1,5 +1,6 @@
 ---
 name: hig-foundations
+category: frameworks/hig
 description: Apple Human Interface Guidelines design foundations.
 risk: unknown
 source: community

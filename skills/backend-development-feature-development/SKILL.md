@@ -1,5 +1,6 @@
 ---
 name: backend-development-feature-development
+category: architecture
 description: "Orchestrate end-to-end backend feature development from requirements to deployment. Use when coordinating multi-phase feature delivery across teams and services."
 risk: unknown
 source: community

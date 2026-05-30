@@ -1,5 +1,6 @@
 ---
 name: radix-ui-design-system
+category: frontend/design
 description: "Build accessible design systems with Radix UI primitives. Headless component customization, theming strategies, and compound component patterns for production-grade UI libraries."
 risk: safe
 source: self

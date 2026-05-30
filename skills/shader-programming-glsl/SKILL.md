@@ -1,5 +1,6 @@
 ---
 name: shader-programming-glsl
+category: frontend/design
 description: "Expert guide for writing efficient GLSL shaders (Vertex/Fragment) for web and game engines, covering syntax, uniforms, and common effects."
 risk: safe
 source: community

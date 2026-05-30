@@ -1,5 +1,6 @@
 ---
 name: odoo-ecommerce-configurator
+category: domains/odoo
 description: "Expert guide for Odoo eCommerce and Website: product catalog, payment providers, shipping methods, SEO, and order-to-fulfillment workflow."
 risk: safe
 source: "self"

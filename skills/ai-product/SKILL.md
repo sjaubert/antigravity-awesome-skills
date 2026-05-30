@@ -1,5 +1,6 @@
 ---
 name: ai-product
+category: ai-ml
 description: Every product will be AI-powered. The question is whether you'll build it right or ship a demo that falls apart in production. This skill covers LLM integration patterns, RAG architecture, prompt ...
 risk: unknown
 source: vibeship-spawner-skills (Apache 2.0)

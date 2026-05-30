@@ -1,5 +1,6 @@
 ---
 name: infinite-gratitude
+category: ai-ml
 description: "Multi-agent research skill for parallel research execution (10 agents, battle-tested with real case studies)."
 risk: safe
 source: "https://github.com/sstklen/infinite-gratitude"

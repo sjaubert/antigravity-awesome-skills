@@ -1,5 +1,6 @@
 ---
 name: yara-authoring
+category: uncategorized
 description: Yara Authoring
 ---
 

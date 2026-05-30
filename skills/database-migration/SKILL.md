@@ -1,5 +1,6 @@
 ---
 name: database-migration
+category: database
 description: "Execute database migrations across ORMs and platforms with zero-downtime strategies, data transformation, and rollback procedures. Use when migrating databases, changing schemas, performing data tr..."
 risk: unknown
 source: community

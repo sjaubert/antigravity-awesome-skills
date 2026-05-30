@@ -1,5 +1,6 @@
 ---
 name: sexual-health-analyzer
+category: domains/health
 description: Sexual Health Analyzer
 ---
 

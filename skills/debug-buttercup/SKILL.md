@@ -1,5 +1,6 @@
 ---
 name: debug-buttercup
+category: uncategorized
 description: >
   Debugs the Buttercup CRS (Cyber Reasoning System) running on Kubernetes.
   Use when diagnosing pod crashes, restart loops, Redis failures, resource pressure,

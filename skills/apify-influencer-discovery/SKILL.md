@@ -1,5 +1,6 @@
 ---
 name: apify-influencer-discovery
+category: domains/apify
 description: Find and evaluate influencers for brand partnerships, verify authenticity, and track collaboration performance across Instagram, Facebook, YouTube, and TikTok.
 ---
 

@@ -1,5 +1,6 @@
 ---
 name: bullmq-specialist
+category: uncategorized
 description: "BullMQ expert for Redis-backed job queues, background processing, and reliable async execution in Node.js/TypeScript applications. Use when: bullmq, bull queue, redis queue, background job, job queue."
 risk: unknown
 source: "vibeship-spawner-skills (Apache 2.0)"

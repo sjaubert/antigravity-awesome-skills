@@ -1,5 +1,6 @@
 ---
 name: azure-eventhub-dotnet
+category: cloud/azure
 description: Azure Event Hubs SDK for .NET.
 risk: unknown
 source: community

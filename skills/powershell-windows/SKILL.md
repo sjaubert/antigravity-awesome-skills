@@ -1,5 +1,6 @@
 ---
 name: powershell-windows
+category: languages/shell
 description: "PowerShell Windows patterns. Critical pitfalls, operator syntax, error handling."
 risk: unknown
 source: community

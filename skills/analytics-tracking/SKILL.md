@@ -1,5 +1,6 @@
 ---
 name: analytics-tracking
+category: automation/analytics
 description: Design, audit, and improve analytics tracking systems that produce reliable, decision-ready data.
 risk: unknown
 source: community

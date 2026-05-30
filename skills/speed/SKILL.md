@@ -1,5 +1,6 @@
 ---
 name: speed
+category: uncategorized
 description: Launch RSVP speed reader for text
 trigger: command
 tools: Write, Bash, Read

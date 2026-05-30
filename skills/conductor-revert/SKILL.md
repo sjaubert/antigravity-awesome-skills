@@ -1,5 +1,6 @@
 ---
 name: conductor-revert
+category: frameworks/conductor
 description: "Git-aware undo by logical work unit (track, phase, or task)"
 risk: unknown
 source: community

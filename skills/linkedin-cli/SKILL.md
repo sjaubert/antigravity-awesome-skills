@@ -1,5 +1,6 @@
 ---
 name: linkedin-cli
+category: uncategorized
 description: "Use when automating LinkedIn via CLI: fetch profiles, search people/companies, send messages, manage connections, create posts, and Sales Navigator."
 risk: safe
 source: community

@@ -1,5 +1,6 @@
 ---
 name: ffuf-web-fuzzing
+category: security
 description: Expert guidance for ffuf web fuzzing during penetration testing, including authenticated fuzzing with raw requests, auto-calibration, and result analysis
 ---
 

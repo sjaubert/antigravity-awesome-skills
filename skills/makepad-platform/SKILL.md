@@ -1,5 +1,6 @@
 ---
 name: makepad-platform
+category: frameworks/makepad
 description: |
   CRITICAL: Use for Makepad cross-platform support. Triggers on:
   makepad platform, makepad os, makepad macos, makepad windows, makepad linux,

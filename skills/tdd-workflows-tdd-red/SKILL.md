@@ -1,5 +1,6 @@
 ---
 name: tdd-workflows-tdd-red
+category: frameworks/tdd
 description: "Generate failing tests for the TDD red phase to define expected behavior and edge cases."
 risk: unknown
 source: community

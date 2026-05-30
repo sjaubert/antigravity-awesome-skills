@@ -1,5 +1,6 @@
 ---
 name: shopify-development
+category: domains/ecommerce
 description: Build Shopify apps, extensions, themes using GraphQL Admin API, Shopify CLI, Polaris UI, and Liquid.
 risk: unknown
 source: community

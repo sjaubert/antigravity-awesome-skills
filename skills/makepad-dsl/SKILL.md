@@ -1,5 +1,6 @@
 ---
 name: makepad-dsl
+category: frameworks/makepad
 description: |
   CRITICAL: Use for Makepad DSL syntax and inheritance. Triggers on:
   makepad dsl, live_design, makepad inheritance, makepad prototype,

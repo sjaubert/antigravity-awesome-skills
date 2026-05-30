@@ -1,5 +1,6 @@
 ---
 name: autonomous-agents
+category: ai-ml
 description: "Autonomous agents are AI systems that can independently decompose goals, plan actions, execute tools, and self-correct without constant human guidance. The challenge isn't making them capable - it'..."
 risk: unknown
 source: "vibeship-spawner-skills (Apache 2.0)"

@@ -1,5 +1,6 @@
 ---
 name: server-management
+category: devops
 description: "Server management principles and decision-making. Process management, monitoring strategy, and scaling decisions. Teaches thinking, not commands."
 risk: unknown
 source: community

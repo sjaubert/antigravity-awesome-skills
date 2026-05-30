@@ -1,5 +1,6 @@
 ---
 name: azure-ai-ml-py
+category: cloud/azure
 description: Azure Machine Learning SDK v2 for Python. Use for ML workspaces, jobs, models, datasets, compute, and pipelines.
 risk: unknown
 source: community

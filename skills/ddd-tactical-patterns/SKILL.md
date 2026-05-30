@@ -1,5 +1,6 @@
 ---
 name: ddd-tactical-patterns
+category: architecture
 description: "Apply DDD tactical patterns in code using entities, value objects, aggregates, repositories, and domain events with explicit invariants."
 risk: safe
 source: self

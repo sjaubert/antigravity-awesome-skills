@@ -1,5 +1,6 @@
 ---
 name: remotion
+category: frontend/design
 description: Generate walkthrough videos from Stitch projects using Remotion with smooth transitions, zooming, and text overlays
 allowed-tools:
   - "stitch*:*"

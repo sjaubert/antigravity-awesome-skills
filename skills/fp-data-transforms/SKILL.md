@@ -1,5 +1,6 @@
 ---
 name: fp-data-transforms
+category: frameworks/fp-ts
 description: Everyday data transformations using functional patterns - arrays, objects, grouping, aggregation, and null-safe access
 version: 1.0.0
 author: Claude

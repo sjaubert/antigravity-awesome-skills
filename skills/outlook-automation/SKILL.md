@@ -1,5 +1,6 @@
 ---
 name: outlook-automation
+category: automation/communication
 description: "Automate Outlook tasks via Rube MCP (Composio): emails, calendar, contacts, folders, attachments. Always search tools first for current schemas."
 risk: unknown
 source: community

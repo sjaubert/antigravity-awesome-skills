@@ -1,5 +1,6 @@
 ---
 name: ai-agents-architect
+category: ai-ml
 description: "Expert in designing and building autonomous AI agents. Masters tool use, memory systems, planning strategies, and multi-agent orchestration. Use when: build agent, AI agent, autonomous agent, tool ..."
 risk: unknown
 source: "vibeship-spawner-skills (Apache 2.0)"

@@ -1,5 +1,6 @@
 ---
 name: fp-refactor
+category: frameworks/fp-ts
 description: Comprehensive guide for refactoring imperative TypeScript code to fp-ts functional patterns
 version: 1.0.0
 author: fp-ts-skills

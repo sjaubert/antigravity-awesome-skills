@@ -1,5 +1,6 @@
 ---
 name: aws-mcp-setup
+category: cloud/aws
 description: Aws Mcp Setup
 ---
 

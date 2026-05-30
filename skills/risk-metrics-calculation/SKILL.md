@@ -1,5 +1,6 @@
 ---
 name: risk-metrics-calculation
+category: domains/finance
 description: "Calculate portfolio risk metrics including VaR, CVaR, Sharpe, Sortino, and drawdown analysis. Use when measuring portfolio risk, implementing risk limits, or building risk monitoring systems."
 risk: unknown
 source: community

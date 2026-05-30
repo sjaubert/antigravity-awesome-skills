@@ -1,5 +1,6 @@
 ---
 name: bash-defensive-patterns
+category: languages/shell
 description: "Master defensive Bash programming techniques for production-grade scripts. Use when writing robust shell scripts, CI/CD pipelines, or system utilities requiring fault tolerance and safety."
 risk: unknown
 source: community

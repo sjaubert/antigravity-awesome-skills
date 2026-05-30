@@ -1,5 +1,6 @@
 ---
 name: react-patterns
+category: frameworks/react
 description: "Modern React patterns and principles. Hooks, composition, performance, TypeScript best practices."
 risk: unknown
 source: community

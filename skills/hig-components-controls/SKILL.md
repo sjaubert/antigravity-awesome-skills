@@ -1,5 +1,6 @@
 ---
 name: hig-components-controls
+category: frameworks/hig
 description: Apple HIG guidance for selection and input controls including pickers, toggles, sliders, steppers, segmented controls, combo boxes, text fields, text views, labels, token fields, virtual...
 risk: unknown
 source: community

@@ -1,5 +1,6 @@
 ---
 name: claude-ally-health
+category: domains/health
 description: "A health assistant skill for medical information analysis, symptom tracking, and wellness guidance."
 risk: safe
 source: "https://github.com/huifer/Claude-Ally-Health"

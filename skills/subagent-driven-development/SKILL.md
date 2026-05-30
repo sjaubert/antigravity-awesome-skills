@@ -1,5 +1,6 @@
 ---
 name: subagent-driven-development
+category: ai-ml
 description: "Use when executing implementation plans with independent tasks in the current session"
 risk: unknown
 source: community

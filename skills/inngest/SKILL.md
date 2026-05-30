@@ -1,5 +1,6 @@
 ---
 name: inngest
+category: uncategorized
 description: "Inngest expert for serverless-first background jobs, event-driven workflows, and durable execution without managing queues or workers. Use when: inngest, serverless background job, event-driven wor..."
 risk: unknown
 source: "vibeship-spawner-skills (Apache 2.0)"

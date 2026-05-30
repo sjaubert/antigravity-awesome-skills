@@ -1,5 +1,6 @@
 ---
 name: crewai
+category: ai-ml
 description: "Expert in CrewAI - the leading role-based multi-agent framework used by 60% of Fortune 500 companies. Covers agent design with roles and goals, task definition, crew orchestration, process types (s..."
 risk: unknown
 source: "vibeship-spawner-skills (Apache 2.0)"

@@ -1,5 +1,6 @@
 ---
 name: avalonia-zafiro-development
+category: frameworks/avalonia
 description: "Mandatory skills, conventions, and behavioral rules for Avalonia UI development using the Zafiro toolkit."
 risk: unknown
 source: community

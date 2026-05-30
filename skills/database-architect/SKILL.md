@@ -1,5 +1,6 @@
 ---
 name: database-architect
+category: database
 description: Expert database architect specializing in data layer design from scratch, technology selection, schema modeling, and scalable database architectures.
 risk: unknown
 source: community

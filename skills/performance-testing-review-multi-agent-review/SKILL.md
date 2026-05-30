@@ -1,5 +1,6 @@
 ---
 name: performance-testing-review-multi-agent-review
+category: ai-ml
 description: "Use when working with performance testing review multi agent review"
 risk: unknown
 source: community

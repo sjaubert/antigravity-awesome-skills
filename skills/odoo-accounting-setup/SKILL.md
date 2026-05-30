@@ -1,5 +1,6 @@
 ---
 name: odoo-accounting-setup
+category: domains/odoo
 description: "Expert guide for configuring Odoo Accounting: chart of accounts, journals, fiscal positions, taxes, payment terms, and bank reconciliation."
 risk: safe
 source: "self"

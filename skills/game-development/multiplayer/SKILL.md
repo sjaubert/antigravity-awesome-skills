@@ -1,5 +1,6 @@
 ---
 name: multiplayer
+category: uncategorized
 description: "Multiplayer game development principles. Architecture, networking, synchronization."
 risk: unknown
 source: community

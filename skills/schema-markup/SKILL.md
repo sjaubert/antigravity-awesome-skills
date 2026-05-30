@@ -1,5 +1,6 @@
 ---
 name: schema-markup
+category: uncategorized
 description: Design, validate, and optimize schema.org structured data for eligibility, correctness, and measurable SEO impact.
 risk: unknown
 source: community

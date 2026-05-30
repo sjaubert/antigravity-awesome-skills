@@ -1,5 +1,6 @@
 ---
 name: cc-skill-strategic-compact
+category: uncategorized
 description: "Development skill from everything-claude-code"
 risk: unknown
 source: community

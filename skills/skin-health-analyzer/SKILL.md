@@ -1,5 +1,6 @@
 ---
 name: skin-health-analyzer
+category: domains/health
 description: Analyze skin health data, identify skin problem patterns, assess skin health status. Supports correlation analysis with nutrition, chronic diseases, and medication data.
 risk: unknown
 source: community

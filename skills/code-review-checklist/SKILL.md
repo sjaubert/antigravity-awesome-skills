@@ -1,5 +1,6 @@
 ---
 name: code-review-checklist
+category: uncategorized
 description: "Comprehensive checklist for conducting thorough code reviews covering functionality, security, performance, and maintainability"
 risk: unknown
 source: community

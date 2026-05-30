@@ -1,5 +1,6 @@
 ---
 name: robius-state-management
+category: frameworks/robius
 description: |
   CRITICAL: Use for Robius state management patterns. Triggers on:
   AppState, persistence, theme switch, 状态管理,

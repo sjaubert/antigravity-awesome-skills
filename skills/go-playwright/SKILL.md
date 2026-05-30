@@ -1,5 +1,6 @@
 ---
 name: go-playwright
+category: languages/go
 description: "Expert capability for robust, stealthy, and efficient browser automation using Playwright Go."
 risk: safe
 source: "https://github.com/playwright-community/playwright-go"

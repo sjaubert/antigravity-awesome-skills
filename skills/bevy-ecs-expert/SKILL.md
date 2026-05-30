@@ -1,5 +1,6 @@
 ---
 name: bevy-ecs-expert
+category: games
 description: "Master Bevy's Entity Component System (ECS) in Rust, covering Systems, Queries, Resources, and parallel scheduling."
 risk: safe
 source: community

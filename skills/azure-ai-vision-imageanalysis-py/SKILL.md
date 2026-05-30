@@ -1,5 +1,6 @@
 ---
 name: azure-ai-vision-imageanalysis-py
+category: cloud/azure
 description: Azure AI Vision Image Analysis SDK for captions, tags, objects, OCR, people detection, and smart cropping. Use for computer vision and image understanding tasks.
 risk: unknown
 source: community

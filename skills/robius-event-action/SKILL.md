@@ -1,5 +1,6 @@
 ---
 name: robius-event-action
+category: frameworks/robius
 description: |
   CRITICAL: Use for Robius event and action patterns. Triggers on:
   custom action, MatchEvent, post_action, cx.widget_action,

@@ -1,5 +1,6 @@
 ---
 name: makepad-layout
+category: frameworks/makepad
 description: |
   CRITICAL: Use for Makepad layout system. Triggers on:
   makepad layout, makepad width, makepad height, makepad flex,

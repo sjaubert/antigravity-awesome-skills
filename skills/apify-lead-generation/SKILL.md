@@ -1,5 +1,6 @@
 ---
 name: apify-lead-generation
+category: domains/apify
 description: "Generates B2B/B2C leads by scraping Google Maps, websites, Instagram, TikTok, Facebook, LinkedIn, YouTube, and Google Search. Use when user asks to find leads, prospects, businesses, build lead lis..."
 ---
 

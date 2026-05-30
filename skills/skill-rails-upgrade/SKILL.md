@@ -1,5 +1,6 @@
 ---
 name: skill-rails-upgrade
+category: languages/ruby
 description: "Analyze Rails apps and provide upgrade assessments"
 risk: safe
 source: "https://github.com/robzolkos/skill-rails-upgrade"

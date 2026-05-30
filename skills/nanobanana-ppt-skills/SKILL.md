@@ -1,5 +1,6 @@
 ---
 name: nanobanana-ppt-skills
+category: frontend/design
 description: "AI-powered PPT generation with document analysis and styled images"
 risk: safe
 source: "https://github.com/op7418/NanoBanana-PPT-Skills"

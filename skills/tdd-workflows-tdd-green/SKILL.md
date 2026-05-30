@@ -1,5 +1,6 @@
 ---
 name: tdd-workflows-tdd-green
+category: frameworks/tdd
 description: "Implement the minimal code needed to make failing tests pass in the TDD green phase."
 risk: unknown
 source: community

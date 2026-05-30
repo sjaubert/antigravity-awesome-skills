@@ -1,5 +1,6 @@
 ---
 name: requesting-code-review
+category: uncategorized
 description: "Use when completing tasks, implementing major features, or before merging to verify work meets requirements"
 risk: unknown
 source: community

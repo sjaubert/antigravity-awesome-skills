@@ -1,5 +1,6 @@
 ---
 name: product-manager-toolkit
+category: business
 description: "Comprehensive toolkit for product managers including RICE prioritization, customer interview analysis, PRD templates, discovery frameworks, and go-to-market strategies. Use for feature prioritizati..."
 risk: unknown
 source: community

@@ -1,5 +1,6 @@
 ---
 name: manifest
+category: meta
 description: "Install and configure the Manifest observability plugin for your agents. Use when setting up telemetry, configuring API keys, or troubleshooting the plugin."
 risk: unknown
 source: community

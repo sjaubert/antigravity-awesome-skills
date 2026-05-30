@@ -1,5 +1,6 @@
 ---
 name: deployment-engineer
+category: devops
 description: Expert deployment engineer specializing in modern CI/CD pipelines, GitOps workflows, and advanced deployment automation.
 risk: unknown
 source: community

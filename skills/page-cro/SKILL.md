@@ -1,5 +1,6 @@
 ---
 name: page-cro
+category: frontend/cro
 description: Analyze and optimize individual pages for conversion performance.
 risk: unknown
 source: community

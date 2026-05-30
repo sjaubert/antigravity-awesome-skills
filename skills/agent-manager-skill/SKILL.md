@@ -1,5 +1,6 @@
 ---
 name: agent-manager-skill
+category: ai-ml
 description: "Manage multiple local CLI agents via tmux sessions (start/stop/monitor/assign) with cron-friendly scheduling."
 risk: unknown
 source: community

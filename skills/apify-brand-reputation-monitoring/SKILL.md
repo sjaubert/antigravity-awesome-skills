@@ -1,5 +1,6 @@
 ---
 name: apify-brand-reputation-monitoring
+category: domains/apify
 description: "Track reviews, ratings, sentiment, and brand mentions across Google Maps, Booking.com, TripAdvisor, Facebook, Instagram, YouTube, and TikTok. Use when user asks to monitor brand reputation, analyze..."
 ---
 

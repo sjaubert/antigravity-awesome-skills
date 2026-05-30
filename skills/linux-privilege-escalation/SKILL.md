@@ -1,5 +1,6 @@
 ---
 name: linux-privilege-escalation
+category: security
 description: "This skill should be used when the user asks to \"escalate privileges on Linux\", \"find privesc vectors on Linux systems\", \"exploit sudo misconfigurations\", \"abuse SUID binaries\", \"ex..."
 risk: unknown
 source: community

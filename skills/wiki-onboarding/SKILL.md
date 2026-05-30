@@ -1,5 +1,6 @@
 ---
 name: wiki-onboarding
+category: domains/wiki
 description: "Generates two complementary onboarding guides \u2014 a Principal-Level architectural deep-dive and a Zero-to-Hero contributor walkthrough. Use when the user wants onboarding documentation fo..."
 risk: unknown
 source: community

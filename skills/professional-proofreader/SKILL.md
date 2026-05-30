@@ -1,5 +1,6 @@
 ---
 name: professional-proofreader
+category: content/writing
 description: >
     Use when a user asks to "proofread", "review and correct", "fix grammar", "improve readability while keeping my voice", and to proofread a document file and save an updated version.
 risk: safe

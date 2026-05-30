@@ -1,5 +1,6 @@
 ---
 name: context-driven-development
+category: ai-ml
 description: Use this skill when working with Conductor's context-driven development methodology, managing project context artifacts, or understanding the relationship between product.md, tech-stack.md, and...
 risk: unknown
 source: community

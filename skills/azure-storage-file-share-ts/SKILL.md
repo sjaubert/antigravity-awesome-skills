@@ -1,5 +1,6 @@
 ---
 name: azure-storage-file-share-ts
+category: cloud/azure
 description: Azure File Share JavaScript/TypeScript SDK (@azure/storage-file-share) for SMB file share operations.
 risk: unknown
 source: community

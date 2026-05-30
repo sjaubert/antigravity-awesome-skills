@@ -1,5 +1,6 @@
 ---
 name: wiki-architect
+category: domains/wiki
 description: "Analyzes code repositories and generates hierarchical documentation structures with onboarding guides. Use when the user wants to create a wiki, generate documentation, map a codebase structure, or..."
 risk: unknown
 source: community

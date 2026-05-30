@@ -1,5 +1,6 @@
 ---
 name: conductor-manage
+category: frameworks/conductor
 description: "Manage track lifecycle: archive, restore, delete, rename, and cleanup"
 risk: unknown
 source: community

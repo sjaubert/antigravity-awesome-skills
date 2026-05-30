@@ -1,7 +1,7 @@
 ---
 name: x-twitter-scraper
 description: "X (Twitter) data platform skill — tweet search, user lookup, follower extraction, engagement metrics, giveaway draws, monitoring, webhooks, 19 extraction tools, MCP server."
-category: data
+category: automation/social
 risk: safe
 source: community
 tags: "[twitter, x-api, scraping, mcp, social-media, data-extraction, giveaway, monitoring, webhooks]"

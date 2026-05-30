@@ -1,5 +1,6 @@
 ---
 name: paywall-upgrade-cro
+category: frontend/cro
 description: "When the user wants to create or optimize in-app paywalls, upgrade screens, upsell modals, or feature gates. Also use when the user mentions \"paywall,\" \"upgrade screen,\" \"upgrade modal,..."
 risk: unknown
 source: community

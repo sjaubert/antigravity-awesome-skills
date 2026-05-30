@@ -1,5 +1,6 @@
 ---
 name: documentation-templates
+category: content/writing
 description: "Documentation templates and structure guidelines. README, API docs, code comments, and AI-friendly documentation."
 risk: unknown
 source: community

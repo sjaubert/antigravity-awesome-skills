@@ -1,5 +1,6 @@
 ---
 name: data-visualization
+category: uncategorized
 description: Data Visualization
 ---
 

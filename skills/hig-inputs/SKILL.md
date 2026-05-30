@@ -1,5 +1,6 @@
 ---
 name: hig-inputs
+category: frameworks/hig
 description: 'Apple HIG guidance for input methods and interaction patterns: gestures, Apple Pencil, keyboards, game controllers, pointers, Digital Crown, eye tracking, focus system, remotes, spatial...'
 risk: unknown
 source: community

@@ -1,5 +1,6 @@
 ---
 name: fal-audio
+category: ai-ml
 description: "Text-to-speech and speech-to-text using fal.ai audio models"
 risk: safe
 source: "https://github.com/fal-ai-community/skills/blob/main/skills/claude.ai/fal-audio/SKILL.md"

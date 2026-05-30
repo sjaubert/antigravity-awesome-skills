@@ -1,5 +1,6 @@
 ---
 name: dotnet-architect
+category: languages/dotnet
 description: Expert .NET backend architect specializing in C#, ASP.NET Core, Entity Framework, Dapper, and enterprise application patterns.
 risk: unknown
 source: community

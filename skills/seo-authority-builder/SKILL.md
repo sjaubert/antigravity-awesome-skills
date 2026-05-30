@@ -1,5 +1,6 @@
 ---
 name: seo-authority-builder
+category: domains/seo
 description: 'Analyzes content for E-E-A-T signals and suggests improvements to
 
   build authority and trust. Identifies missing credibility elements. Use

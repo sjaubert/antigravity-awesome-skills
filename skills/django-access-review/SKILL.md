@@ -1,5 +1,6 @@
 ---
 name: django-access-review
+category: uncategorized
 description: django-access-review
 ---
 

@@ -1,5 +1,6 @@
 ---
 name: database-migrations-migration-observability
+category: database
 description: "Migration monitoring, CDC, and observability infrastructure"
 risk: unknown
 source: community

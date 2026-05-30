@@ -1,5 +1,6 @@
 ---
 name: form-cro
+category: frontend/cro
 description: Optimize any form that is NOT signup or account registration — including lead capture, contact, demo request, application, survey, quote, and checkout forms.
 risk: unknown
 source: community

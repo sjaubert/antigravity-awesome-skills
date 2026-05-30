@@ -1,5 +1,6 @@
 ---
 name: wordpress-penetration-testing
+category: security
 description: "This skill should be used when the user asks to \"pentest WordPress sites\", \"scan WordPress for vulnerabilities\", \"enumerate WordPress users, themes, or plugins\", \"exploit WordPress vu..."
 risk: unknown
 source: community

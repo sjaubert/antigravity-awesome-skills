@@ -1,5 +1,6 @@
 ---
 name: notion-template-business
+category: automation/project-management
 description: "Expert in building and selling Notion templates as a business - not just making templates, but building a sustainable digital product business. Covers template design, pricing, marketplaces, market..."
 risk: unknown
 source: "vibeship-spawner-skills (Apache 2.0)"

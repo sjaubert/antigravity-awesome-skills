@@ -1,5 +1,6 @@
 ---
 name: robius-widget-patterns
+category: frameworks/robius
 description: |
   CRITICAL: Use for Robius widget patterns. Triggers on:
   apply_over, TextOrImage, modal, 可复用, 模态,

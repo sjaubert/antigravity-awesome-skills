@@ -1,5 +1,6 @@
 ---
 name: ssh-penetration-testing
+category: security
 description: "This skill should be used when the user asks to \"pentest SSH services\", \"enumerate SSH configurations\", \"brute force SSH credentials\", \"exploit SSH vulnerabilities\", \"perform SSH tu..."
 risk: unknown
 source: community

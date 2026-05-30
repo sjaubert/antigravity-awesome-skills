@@ -1,5 +1,6 @@
 ---
 name: zustand-store-ts
+category: uncategorized
 description: "Create Zustand stores with TypeScript, subscribeWithSelector middleware, and proper state/action separation. Use when building React state management, creating global stores, or implementing reacti..."
 risk: unknown
 source: community

@@ -1,5 +1,6 @@
 ---
 name: rag-engineer
+category: ai-ml
 description: "Expert in building Retrieval-Augmented Generation systems. Masters embedding models, vector databases, chunking strategies, and retrieval optimization for LLM applications. Use when: building RAG, ..."
 risk: unknown
 source: "vibeship-spawner-skills (Apache 2.0)"

@@ -1,5 +1,6 @@
 ---
 name: literature-analysis
+category: content/writing
 description: Literature Analysis
 ---
 

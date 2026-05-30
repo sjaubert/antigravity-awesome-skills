@@ -1,5 +1,6 @@
 ---
 name: fal-workflow
+category: ai-ml
 description: "Generate workflow JSON files for chaining AI models"
 risk: safe
 source: "https://github.com/fal-ai-community/skills/blob/main/skills/claude.ai/fal-workflow/SKILL.md"

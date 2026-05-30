@@ -1,5 +1,6 @@
 ---
 name: n8n-validation-expert
+category: frameworks/n8n
 description: Interpret validation errors and guide fixing them. Use when encountering validation errors, validation warnings, false positives, operator structure issues, or need help understanding validation results. Also use when asking about validation...
 ---
 

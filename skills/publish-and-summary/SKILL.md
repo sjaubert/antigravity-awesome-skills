@@ -1,5 +1,6 @@
 ---
 name: publish-and-summary
+category: uncategorized
 description: Publish And Summary
 ---
 

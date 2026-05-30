@@ -1,5 +1,6 @@
 ---
 name: apify-ultimate-scraper
+category: domains/apify
 description: "Universal AI-powered web scraper for any platform. Scrape data from Instagram, Facebook, TikTok, YouTube, Google Maps, Google Search, Google Trends, Booking.com, and TripAdvisor. Use for lead gener..."
 ---
 

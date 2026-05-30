@@ -1,5 +1,6 @@
 ---
 name: ddd-context-mapping
+category: architecture
 description: "Map relationships between bounded contexts and define integration contracts using DDD context mapping patterns."
 risk: safe
 source: self

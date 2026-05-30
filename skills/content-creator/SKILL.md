@@ -1,7 +1,7 @@
 ---
 name: content-creator
 description: "Create SEO-optimized marketing content with consistent brand voice. Includes brand voice analyzer, SEO optimizer, content frameworks, and social media templates. Use when writing blog posts, creati..."
-category: marketing
+category: content/writing
 risk: unknown
 source: community
 date_added: "2026-02-27"

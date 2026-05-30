@@ -1,5 +1,6 @@
 ---
 name: odoo-hr-payroll-setup
+category: domains/odoo
 description: "Expert guide for Odoo HR and Payroll: salary structures, payslip rules, leave policies, employee contracts, and payroll journal entries."
 risk: safe
 source: "self"

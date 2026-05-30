@@ -1,5 +1,6 @@
 ---
 name: azure-functions
+category: cloud/azure
 description: "Expert patterns for Azure Functions development including isolated worker model, Durable Functions orchestration, cold start optimization, and production patterns. Covers .NET, Python, and Node.js ..."
 risk: unknown
 source: "vibeship-spawner-skills (Apache 2.0)"

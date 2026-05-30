@@ -1,5 +1,6 @@
 ---
 name: slack-gif-creator
+category: automation/communication
 description: "Knowledge and utilities for creating animated GIFs optimized for Slack. Provides constraints, validation tools, and animation concepts. Use when users request animated GIFs for Slack like \"..."
 risk: unknown
 source: community

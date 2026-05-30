@@ -1,5 +1,6 @@
 ---
 name: sendgrid-automation
+category: automation/communication
 description: "Automate SendGrid email operations including sending emails, managing contacts/lists, sender identities, templates, and analytics via Rube MCP (Composio). Always search tools first for current sche..."
 risk: unknown
 source: community

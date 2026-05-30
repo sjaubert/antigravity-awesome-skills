@@ -1,5 +1,6 @@
 ---
 name: database-design
+category: database
 description: "Database design principles and decision-making. Schema design, indexing strategy, ORM selection, serverless databases."
 risk: unknown
 source: community

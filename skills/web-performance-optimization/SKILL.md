@@ -1,5 +1,6 @@
 ---
 name: web-performance-optimization
+category: uncategorized
 description: "Optimize website and web application performance including loading speed, Core Web Vitals, bundle size, caching strategies, and runtime performance"
 risk: unknown
 source: community

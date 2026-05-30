@@ -1,5 +1,6 @@
 ---
 name: aws-agentic-ai
+category: cloud/aws
 description: Aws Agentic Ai
 ---
 

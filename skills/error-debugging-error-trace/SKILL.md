@@ -1,5 +1,6 @@
 ---
 name: error-debugging-error-trace
+category: uncategorized
 description: "You are an error tracking and observability expert specializing in implementing comprehensive error monitoring solutions. Set up error tracking systems, configure alerts, implement structured loggi..."
 risk: unknown
 source: community

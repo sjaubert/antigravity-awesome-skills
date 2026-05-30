@@ -1,5 +1,6 @@
 ---
 name: hig-components-content
+category: frameworks/hig
 description: Apple Human Interface Guidelines for content display components.
 risk: unknown
 source: community

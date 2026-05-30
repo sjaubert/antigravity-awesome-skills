@@ -1,5 +1,6 @@
 ---
 name: startup-business-analyst-market-opportunity
+category: business
 description: 'Generate comprehensive market opportunity analysis with TAM/SAM/SOM
 
   calculations

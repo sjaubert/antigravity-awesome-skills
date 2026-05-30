@@ -1,5 +1,6 @@
 ---
 name: code-reviewer
+category: uncategorized
 description: "Elite code review expert specializing in modern AI-powered code"
 risk: unknown
 source: community

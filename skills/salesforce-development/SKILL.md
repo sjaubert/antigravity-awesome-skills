@@ -1,5 +1,6 @@
 ---
 name: salesforce-development
+category: automation/crm
 description: "Expert patterns for Salesforce platform development including Lightning Web Components (LWC), Apex triggers and classes, REST/Bulk APIs, Connected Apps, and Salesforce DX with scratch orgs and 2nd ..."
 risk: unknown
 source: "vibeship-spawner-skills (Apache 2.0)"

@@ -1,5 +1,6 @@
 ---
 name: golang-pro
+category: languages/go
 description: Master Go 1.21+ with modern patterns, advanced concurrency, performance optimization, and production-ready microservices.
 risk: unknown
 source: community

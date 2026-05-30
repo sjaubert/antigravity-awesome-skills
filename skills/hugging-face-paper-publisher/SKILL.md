@@ -1,5 +1,6 @@
 ---
 name: hugging-face-paper-publisher
+category: ai-ml
 description: Publish and manage research papers on Hugging Face Hub. Supports creating paper pages, linking papers to models/datasets, claiming authorship, and generating professional markdown-based research articles.
 ---
 

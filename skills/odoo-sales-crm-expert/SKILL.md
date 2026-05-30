@@ -1,5 +1,6 @@
 ---
 name: odoo-sales-crm-expert
+category: domains/odoo
 description: "Expert guide for Odoo Sales and CRM: pipeline stages, quotation templates, pricelists, sales teams, lead scoring, and forecasting."
 risk: safe
 source: "self"

@@ -1,5 +1,6 @@
 ---
 name: mobile-games
+category: uncategorized
 description: "Mobile game development principles. Touch input, battery, performance, app stores."
 risk: unknown
 source: community

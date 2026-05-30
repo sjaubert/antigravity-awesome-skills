@@ -1,5 +1,6 @@
 ---
 name: parallel-agents
+category: ai-ml
 description: "Multi-agent orchestration patterns. Use when multiple independent tasks can run with different domain expertise or when comprehensive analysis requires multiple perspectives."
 risk: unknown
 source: community

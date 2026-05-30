@@ -1,5 +1,6 @@
 ---
 name: startup-analyst
+category: business
 description: Expert startup business analyst specializing in market sizing, financial modeling, competitive analysis, and strategic planning for early-stage companies.
 risk: unknown
 source: community

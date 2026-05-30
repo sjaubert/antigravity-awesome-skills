@@ -1,5 +1,6 @@
 ---
 name: helm-chart-scaffolding
+category: devops
 description: "Design, organize, and manage Helm charts for templating and packaging Kubernetes applications with reusable configurations. Use when creating Helm charts, packaging Kubernetes applications, or impl..."
 risk: unknown
 source: community

@@ -1,5 +1,6 @@
 ---
 name: favicon
+category: frontend/design
 argument-hint: [path to source image]
 description: Generate favicons from a source image
 allowed-tools: Bash(magick *), Bash(which *), Bash(cp *), Bash(mkdir *)

@@ -1,5 +1,6 @@
 ---
 name: product-manager
+category: business
 description: "Senior PM agent with 6 knowledge domains, 30+ frameworks, 12 templates, and 32 SaaS metrics with formulas. Pure Markdown, zero scripts."
 version: "1.0.0"
 author: "Digidai"

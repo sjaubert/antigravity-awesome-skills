@@ -1,5 +1,6 @@
 ---
 name: machine-learning-ops-ml-pipeline
+category: ai-ml
 description: "Design and implement a complete ML pipeline for: $ARGUMENTS"
 risk: unknown
 source: community

@@ -1,5 +1,6 @@
 ---
 name: azd-deployment
+category: cloud/azure
 description: "Deploy containerized applications to Azure Container Apps using Azure Developer CLI (azd). Use when setting up azd projects, writing azure.yaml configuration, creating Bicep infrastructure for Cont..."
 risk: unknown
 source: community

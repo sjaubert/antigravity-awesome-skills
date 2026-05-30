@@ -1,5 +1,6 @@
 ---
 name: security-scanning-security-sast
+category: security
 description: 'Static Application Security Testing (SAST) for code vulnerability
 
   analysis across multiple languages and frameworks

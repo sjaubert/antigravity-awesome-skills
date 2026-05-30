@@ -1,5 +1,6 @@
 ---
 name: apify-competitor-intelligence
+category: domains/apify
 description: Analyze competitor strategies, content, pricing, ads, and market positioning across Google Maps, Booking.com, Facebook, Instagram, YouTube, and TikTok.
 ---
 

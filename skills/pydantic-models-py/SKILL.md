@@ -1,5 +1,6 @@
 ---
 name: pydantic-models-py
+category: uncategorized
 description: "Create Pydantic models following the multi-model pattern with Base, Create, Update, Response, and InDB variants. Use when defining API request/response schemas, database models, or data validation ..."
 risk: unknown
 source: community

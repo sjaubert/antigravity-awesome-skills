@@ -1,5 +1,6 @@
 ---
 name: dropbox-automation
+category: automation/productivity
 description: "Automate Dropbox file management, sharing, search, uploads, downloads, and folder operations via Rube MCP (Composio). Always search tools first for current schemas."
 risk: unknown
 source: community

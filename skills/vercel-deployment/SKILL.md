@@ -1,5 +1,6 @@
 ---
 name: vercel-deployment
+category: devops
 description: "Expert knowledge for deploying to Vercel with Next.js Use when: vercel, deploy, deployment, hosting, production."
 risk: safe
 source: "vibeship-spawner-skills (Apache 2.0)"

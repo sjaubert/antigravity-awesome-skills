@@ -1,5 +1,6 @@
 ---
 name: wiki-researcher
+category: domains/wiki
 description: "Conducts multi-turn iterative deep research on specific topics within a codebase with zero tolerance for shallow analysis. Use when the user wants an in-depth investigation, needs to understand how..."
 risk: unknown
 source: community

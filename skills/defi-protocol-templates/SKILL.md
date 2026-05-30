@@ -1,5 +1,6 @@
 ---
 name: defi-protocol-templates
+category: domains/web3
 description: "Implement DeFi protocols with production-ready templates for staking, AMMs, governance, and lending systems. Use when building decentralized finance applications or smart contract protocols."
 risk: unknown
 source: community

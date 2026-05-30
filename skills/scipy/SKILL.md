@@ -1,5 +1,6 @@
 ---
 name: scipy
+category: uncategorized
 description: Scipy
 ---
 

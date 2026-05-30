@@ -1,5 +1,6 @@
 ---
 name: evaluation
+category: uncategorized
 description: "Build evaluation frameworks for agent systems"
 risk: safe
 source: "https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering/tree/main/skills/evaluation"

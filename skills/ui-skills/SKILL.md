@@ -1,5 +1,6 @@
 ---
 name: ui-skills
+category: frontend/design
 description: "Opinionated, evolving constraints to guide agents when building interfaces"
 risk: safe
 source: "https://github.com/ibelick/ui-skills"

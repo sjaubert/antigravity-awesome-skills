@@ -1,5 +1,6 @@
 ---
 name: expo-ui-swift-ui
+category: frameworks/expo
 description: expo-ui-swift-ui
 ---
 

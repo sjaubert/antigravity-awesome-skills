@@ -1,5 +1,6 @@
 ---
 name: cloudformation-best-practices
+category: uncategorized
 description: "CloudFormation template optimization, nested stacks, drift detection, and production-ready patterns. Use when writing or reviewing CF templates."
 risk: unknown
 source: community

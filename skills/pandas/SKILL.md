@@ -1,5 +1,6 @@
 ---
 name: pandas
+category: uncategorized
 description: Pandas
 risk: unknown
 source: community

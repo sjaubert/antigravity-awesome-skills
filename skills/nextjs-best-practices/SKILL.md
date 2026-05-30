@@ -1,5 +1,6 @@
 ---
 name: nextjs-best-practices
+category: frameworks/nextjs
 description: "Next.js App Router principles. Server Components, data fetching, routing patterns."
 risk: unknown
 source: community

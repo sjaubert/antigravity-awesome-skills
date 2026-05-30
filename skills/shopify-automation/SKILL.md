@@ -1,5 +1,6 @@
 ---
 name: shopify-automation
+category: domains/ecommerce
 description: "Automate Shopify tasks via Rube MCP (Composio): products, orders, customers, inventory, collections. Always search tools first for current schemas."
 risk: unknown
 source: community

@@ -1,5 +1,6 @@
 ---
 name: c-pro
+category: languages/c
 description: "Write efficient C code with proper memory management, pointer"
 risk: unknown
 source: community

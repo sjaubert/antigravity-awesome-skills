@@ -1,7 +1,7 @@
 ---
 name: aws-security-audit
 description: "Comprehensive AWS security posture assessment using AWS CLI and security best practices"
-category: security
+category: cloud/aws
 risk: safe
 source: community
 tags: "[aws, security, audit, compliance, kiro-cli, security-assessment]"

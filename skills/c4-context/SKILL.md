@@ -1,5 +1,6 @@
 ---
 name: c4-context
+category: frameworks/c4
 description: Expert C4 Context-level documentation specialist. Creates high-level system context diagrams, documents personas, user journeys, system features, and external dependencies.
 risk: unknown
 source: community

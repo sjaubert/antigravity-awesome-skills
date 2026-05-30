@@ -1,5 +1,6 @@
 ---
 name: speckit-updater
+category: uncategorized
 description: SpecKit Safe Update
 ---
 

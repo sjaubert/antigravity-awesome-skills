@@ -1,5 +1,6 @@
 ---
 name: azure-resource-manager-redis-dotnet
+category: cloud/azure
 description: Azure Resource Manager SDK for Redis in .NET.
 risk: unknown
 source: community

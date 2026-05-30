@@ -1,5 +1,6 @@
 ---
 name: seo-audit
+category: domains/seo
 description: Diagnose and audit SEO issues affecting crawlability, indexation, rankings, and organic performance.
 risk: unknown
 source: community

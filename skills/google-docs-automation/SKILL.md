@@ -1,5 +1,6 @@
 ---
 name: google-docs-automation
+category: automation/productivity
 description: |
   Interact with Google Docs - create documents, search by title, read content, and edit text.
   Use when user asks to: create a Google Doc, find a document, read doc content, add text to a doc,

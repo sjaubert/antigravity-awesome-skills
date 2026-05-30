@@ -1,5 +1,6 @@
 ---
 name: makepad-animation
+category: frameworks/makepad
 description: |
   CRITICAL: Use for Makepad animation system. Triggers on:
   makepad animation, makepad animator, makepad hover, makepad state,

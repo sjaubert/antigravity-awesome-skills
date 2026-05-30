@@ -1,5 +1,6 @@
 ---
 name: marketing-psychology
+category: business
 description: "Apply behavioral science and mental models to marketing decisions, prioritized using a psychological leverage and feasibility scoring system."
 risk: unknown
 source: community

@@ -1,5 +1,6 @@
 ---
 name: on-call-handoff-patterns
+category: devops
 description: "Master on-call shift handoffs with context transfer, escalation procedures, and documentation. Use when transitioning on-call responsibilities, documenting shift summaries, or improving on-call pro..."
 risk: unknown
 source: community

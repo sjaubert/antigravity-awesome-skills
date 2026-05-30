@@ -1,5 +1,6 @@
 ---
 name: address-github-comments
+category: tooling/git
 description: "Use when you need to address review or issue comments on an open GitHub Pull Request using the gh CLI."
 risk: unknown
 source: community

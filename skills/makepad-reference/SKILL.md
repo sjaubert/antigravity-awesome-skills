@@ -1,5 +1,6 @@
 ---
 name: makepad-reference
+category: frameworks/makepad
 description: |
   CRITICAL: Use for Makepad troubleshooting and reference. Triggers on:
   troubleshoot, error, debug, fix, problem, issue,

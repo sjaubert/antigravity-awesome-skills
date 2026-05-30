@@ -1,5 +1,6 @@
 ---
 name: rust-security-auditor
+category: security
 description: Rust Security Auditor
 ---
 

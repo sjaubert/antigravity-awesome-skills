@@ -1,5 +1,6 @@
 ---
 name: azure-servicebus-dotnet
+category: cloud/azure
 description: Azure Service Bus SDK for .NET. Enterprise messaging with queues, topics, subscriptions, and sessions.
 risk: unknown
 source: community

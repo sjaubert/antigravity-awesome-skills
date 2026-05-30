@@ -1,5 +1,6 @@
 ---
 name: agent-orchestration-improve-agent
+category: ai-ml
 description: "Systematic improvement of existing agents through performance analysis, prompt engineering, and continuous iteration."
 risk: unknown
 source: community

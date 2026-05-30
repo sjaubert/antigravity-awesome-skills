@@ -1,5 +1,6 @@
 ---
 name: osint-evals
+category: security
 description: Osint Evals
 ---
 

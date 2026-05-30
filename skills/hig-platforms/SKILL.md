@@ -1,5 +1,6 @@
 ---
 name: hig-platforms
+category: frameworks/hig
 description: Apple Human Interface Guidelines for platform-specific design.
 risk: unknown
 source: community

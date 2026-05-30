@@ -1,5 +1,6 @@
 ---
 name: cpp-pro
+category: languages/c
 description: Write idiomatic C++ code with modern features, RAII, smart pointers, and STL algorithms. Handles templates, move semantics, and performance optimization.
 risk: unknown
 source: community

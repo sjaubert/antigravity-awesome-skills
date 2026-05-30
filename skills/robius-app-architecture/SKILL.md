@@ -1,5 +1,6 @@
 ---
 name: robius-app-architecture
+category: frameworks/robius
 description: |
   CRITICAL: Use for Robius app architecture patterns. Triggers on:
   Tokio, async, submit_async_request, 异步, 架构,

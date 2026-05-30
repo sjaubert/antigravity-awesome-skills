@@ -1,5 +1,6 @@
 ---
 name: error-detective
+category: uncategorized
 description: Search logs and codebases for error patterns, stack traces, and anomalies. Correlates errors across systems and identifies root causes.
 risk: unknown
 source: community

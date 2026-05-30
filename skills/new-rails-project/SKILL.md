@@ -1,5 +1,6 @@
 ---
 name: new-rails-project
+category: languages/ruby
 argument-hint: [project name]
 description: Create a new Rails project
 allowed-tools: Bash(rails *), Bash(bundle *), Bash(bin/*), Bash(npm *), Bash(yarn *)

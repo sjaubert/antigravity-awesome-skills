@@ -1,5 +1,6 @@
 ---
 name: gcp-cloud-run
+category: cloud/gcp
 description: "Specialized skill for building production-ready serverless applications on GCP. Covers Cloud Run services (containerized), Cloud Run Functions (event-driven), cold start optimization, and event-dri..."
 risk: unknown
 source: "vibeship-spawner-skills (Apache 2.0)"

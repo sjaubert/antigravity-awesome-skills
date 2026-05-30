@@ -1,5 +1,6 @@
 ---
 name: email-sequence
+category: uncategorized
 description: "When the user wants to create or optimize an email sequence, drip campaign, automated email flow, or lifecycle email program. Also use when the user mentions \"email sequence,\" \"drip campa..."
 risk: unknown
 source: community

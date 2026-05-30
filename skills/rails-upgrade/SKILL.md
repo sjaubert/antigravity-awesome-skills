@@ -1,5 +1,6 @@
 ---
 name: rails-upgrade
+category: languages/ruby
 description: Rails Upgrade
 ---
 

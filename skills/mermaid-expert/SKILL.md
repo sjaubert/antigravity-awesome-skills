@@ -1,5 +1,6 @@
 ---
 name: mermaid-expert
+category: uncategorized
 description: Create Mermaid diagrams for flowcharts, sequences, ERDs, and architectures. Masters syntax for all diagram types and styling.
 risk: unknown
 source: community

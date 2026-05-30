@@ -1,5 +1,6 @@
 ---
 name: odoo-woocommerce-bridge
+category: domains/odoo
 description: "Sync Odoo with WooCommerce: products, inventory, orders, and customers via WooCommerce REST API and Odoo external API."
 ---
 

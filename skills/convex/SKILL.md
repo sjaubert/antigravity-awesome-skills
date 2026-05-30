@@ -1,5 +1,6 @@
 ---
 name: convex
+category: uncategorized
 description: "Convex reactive backend expert: schema design, TypeScript functions, real-time subscriptions, auth, file storage, scheduling, and deployment."
 risk: safe
 source: "https://docs.convex.dev"

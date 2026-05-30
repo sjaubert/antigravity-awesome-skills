@@ -1,5 +1,6 @@
 ---
 name: seo-content-refresher
+category: domains/seo
 description: Identifies outdated elements in provided content and suggests updates to maintain freshness. Finds statistics, dates, and examples that need updating. Use PROACTIVELY for older content.
 risk: unknown
 source: community

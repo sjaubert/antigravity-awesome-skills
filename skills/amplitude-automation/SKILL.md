@@ -1,5 +1,6 @@
 ---
 name: amplitude-automation
+category: automation/analytics
 description: "Automate Amplitude tasks via Rube MCP (Composio): events, user activity, cohorts, user identification. Always search tools first for current schemas."
 risk: unknown
 source: community

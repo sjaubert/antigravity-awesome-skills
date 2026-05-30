@@ -1,5 +1,6 @@
 ---
 name: terraform-aws-modules
+category: devops
 description: "Terraform module creation for AWS — reusable modules, state management, and HCL best practices. Use when building or reviewing Terraform AWS infrastructure."
 risk: unknown
 source: community

@@ -1,5 +1,6 @@
 ---
 name: paypal-integration
+category: domains/finance
 description: "Integrate PayPal payment processing with support for express checkout, subscriptions, and refund management. Use when implementing PayPal payments, processing online transactions, or building e-com..."
 risk: unknown
 source: community

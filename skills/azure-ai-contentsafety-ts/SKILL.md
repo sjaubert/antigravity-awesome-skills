@@ -1,5 +1,6 @@
 ---
 name: azure-ai-contentsafety-ts
+category: cloud/azure
 description: "Analyze text and images for harmful content using Azure AI Content Safety (@azure-rest/ai-content-safety). Use when moderating user-generated content, detecting hate speech, violence, sexual conten..."
 risk: unknown
 source: community

@@ -1,5 +1,6 @@
 ---
 name: superpowers-lab
+category: meta
 description: "Lab environment for Claude superpowers"
 risk: safe
 source: "https://github.com/obra/superpowers-lab"

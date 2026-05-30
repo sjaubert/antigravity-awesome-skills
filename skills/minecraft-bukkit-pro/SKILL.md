@@ -1,5 +1,6 @@
 ---
 name: minecraft-bukkit-pro
+category: games
 description: Master Minecraft server plugin development with Bukkit, Spigot, and Paper APIs.
 risk: unknown
 source: community

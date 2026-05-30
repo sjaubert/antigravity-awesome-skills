@@ -1,5 +1,6 @@
 ---
 name: seo-content-writer
+category: domains/seo
 description: Writes SEO-optimized content based on provided keywords and topic briefs. Creates engaging, comprehensive content following best practices. Use PROACTIVELY for content creation tasks.
 risk: unknown
 source: community

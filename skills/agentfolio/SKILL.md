@@ -1,5 +1,6 @@
 ---
 name: agentfolio
+category: ai-ml
 description: "Skill for discovering and researching autonomous AI agents, tools, and ecosystems using the AgentFolio directory."
 risk: unknown
 source: agentfolio.io

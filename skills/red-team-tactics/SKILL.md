@@ -1,5 +1,6 @@
 ---
 name: red-team-tactics
+category: security
 description: "Red team tactics principles based on MITRE ATT&CK. Attack phases, detection evasion, reporting."
 risk: unknown
 source: community

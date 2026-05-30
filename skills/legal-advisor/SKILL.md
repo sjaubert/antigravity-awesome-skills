@@ -1,5 +1,6 @@
 ---
 name: legal-advisor
+category: business
 description: Draft privacy policies, terms of service, disclaimers, and legal notices. Creates GDPR-compliant texts, cookie policies, and data processing agreements.
 risk: unknown
 source: community

@@ -1,5 +1,6 @@
 ---
 name: kubernetes-architect
+category: devops
 description: Expert Kubernetes architect specializing in cloud-native infrastructure, advanced GitOps workflows (ArgoCD/Flux), and enterprise container orchestration.
 risk: unknown
 source: community

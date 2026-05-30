@@ -1,5 +1,6 @@
 ---
 name: azure-storage-queue-ts
+category: cloud/azure
 description: Azure Queue Storage JavaScript/TypeScript SDK (@azure/storage-queue) for message queue operations. Use for sending, receiving, peeking, and deleting messages in queues.
 risk: unknown
 source: community

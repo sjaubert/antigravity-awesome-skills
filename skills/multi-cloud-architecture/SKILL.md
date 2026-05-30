@@ -1,5 +1,6 @@
 ---
 name: multi-cloud-architecture
+category: cloud/general
 description: "Design multi-cloud architectures using a decision framework to select and integrate services across AWS, Azure, and GCP. Use when building multi-cloud systems, avoiding vendor lock-in, or leveragin..."
 risk: unknown
 source: community

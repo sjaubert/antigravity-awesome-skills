@@ -1,5 +1,6 @@
 ---
 name: hig-patterns
+category: frameworks/hig
 description: Apple Human Interface Guidelines interaction and UX patterns.
 risk: unknown
 source: community

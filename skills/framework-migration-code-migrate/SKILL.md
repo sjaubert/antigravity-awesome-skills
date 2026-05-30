@@ -1,5 +1,6 @@
 ---
 name: framework-migration-code-migrate
+category: uncategorized
 description: "You are a code migration expert specializing in transitioning codebases between frameworks, languages, versions, and platforms. Generate comprehensive migration plans, automated migration scripts, and"
 risk: unknown
 source: community

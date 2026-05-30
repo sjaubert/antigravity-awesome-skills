@@ -1,5 +1,6 @@
 ---
 name: azure-monitor-query-java
+category: cloud/azure
 description: Azure Monitor Query SDK for Java. Execute Kusto queries against Log Analytics workspaces and query metrics from Azure resources.
 risk: unknown
 source: community

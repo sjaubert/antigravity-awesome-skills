@@ -1,5 +1,6 @@
 ---
 name: api-security-best-practices
+category: security
 description: "Implement secure API design patterns including authentication, authorization, input validation, rate limiting, and protection against common API vulnerabilities"
 risk: unknown
 source: community

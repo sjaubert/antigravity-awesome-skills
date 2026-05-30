@@ -1,5 +1,6 @@
 ---
 name: active-directory-attacks
+category: security
 description: "This skill should be used when the user asks to \"attack Active Directory\", \"exploit AD\", \"Kerberoasting\", \"DCSync\", \"pass-the-hash\", \"BloodHound enumeration\", \"Golden Ticket\", ..."
 risk: unknown
 source: community

@@ -1,5 +1,6 @@
 ---
 name: game-design
+category: uncategorized
 description: "Game design principles. GDD structure, balancing, player psychology, progression."
 risk: unknown
 source: community

@@ -1,5 +1,6 @@
 ---
 name: pdf-official
+category: uncategorized
 description: "Comprehensive PDF manipulation toolkit for extracting text and tables, creating new PDFs, merging/splitting documents, and handling forms. When Claude needs to fill in a PDF form or programmaticall..."
 risk: unknown
 source: community

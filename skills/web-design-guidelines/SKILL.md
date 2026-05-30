@@ -1,5 +1,6 @@
 ---
 name: web-design-guidelines
+category: frontend/design
 description: "Review UI code for Web Interface Guidelines compliance. Use when asked to \\\"review my UI\\\", \\\"check accessibility\\\", \\\"audit design\\\", \\\"review UX\\\", or \\\"check my site aga..."
 risk: unknown
 source: community

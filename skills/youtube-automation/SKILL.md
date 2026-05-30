@@ -1,5 +1,6 @@
 ---
 name: youtube-automation
+category: automation/social
 description: "Automate YouTube tasks via Rube MCP (Composio): upload videos, manage playlists, search content, get analytics, and handle comments. Always search tools first for current schemas."
 risk: unknown
 source: community

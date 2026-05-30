@@ -1,5 +1,6 @@
 ---
 name: cc-skill-project-guidelines-example
+category: uncategorized
 description: "Project Guidelines Skill (Example)"
 risk: unknown
 source: community

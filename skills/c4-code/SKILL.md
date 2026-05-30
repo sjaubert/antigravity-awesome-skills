@@ -1,5 +1,6 @@
 ---
 name: c4-code
+category: frameworks/c4
 description: Expert C4 Code-level documentation specialist. Analyzes code directories to create comprehensive C4 code-level documentation including function signatures, arguments, dependencies, and code structure.
 risk: unknown
 source: community

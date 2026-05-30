@@ -1,5 +1,6 @@
 ---
 name: azure-mgmt-apimanagement-dotnet
+category: cloud/azure
 description: Azure Resource Manager SDK for API Management in .NET.
 risk: unknown
 source: community

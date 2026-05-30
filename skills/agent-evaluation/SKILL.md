@@ -1,5 +1,6 @@
 ---
 name: agent-evaluation
+category: ai-ml
 description: "Testing and benchmarking LLM agents including behavioral testing, capability assessment, reliability metrics, and production monitoring\u2014where even top agents achieve less than 50% on re..."
 risk: unknown
 source: "vibeship-spawner-skills (Apache 2.0)"

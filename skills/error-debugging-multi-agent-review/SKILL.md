@@ -1,5 +1,6 @@
 ---
 name: error-debugging-multi-agent-review
+category: ai-ml
 description: "Use when working with error debugging multi agent review"
 risk: unknown
 source: community

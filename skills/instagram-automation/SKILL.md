@@ -1,5 +1,6 @@
 ---
 name: instagram-automation
+category: automation/social
 description: "Automate Instagram tasks via Rube MCP (Composio): create posts, carousels, manage media, get insights, and publishing limits. Always search tools first for current schemas."
 risk: unknown
 source: community

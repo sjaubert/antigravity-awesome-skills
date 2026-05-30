@@ -1,5 +1,6 @@
 ---
 name: close-automation
+category: automation/crm
 description: "Automate Close CRM tasks via Rube MCP (Composio): create leads, manage calls/SMS, handle tasks, and track notes. Always search tools first for current schemas."
 risk: unknown
 source: community

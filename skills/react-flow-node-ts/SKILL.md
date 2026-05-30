@@ -1,5 +1,6 @@
 ---
 name: react-flow-node-ts
+category: frameworks/react
 description: "Create React Flow node components with TypeScript types, handles, and Zustand integration. Use when building custom nodes for React Flow canvas, creating visual workflow editors, or implementing no..."
 risk: unknown
 source: community

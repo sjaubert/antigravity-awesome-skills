@@ -1,5 +1,6 @@
 ---
 name: github-actions-templates
+category: devops
 description: "Create production-ready GitHub Actions workflows for automated testing, building, and deploying applications. Use when setting up CI/CD with GitHub Actions, automating development workflows, or cre..."
 risk: unknown
 source: community

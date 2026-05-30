@@ -1,5 +1,6 @@
 ---
 name: frontend-security-coder
+category: security
 description: Expert in secure frontend coding practices specializing in XSS prevention, output sanitization, and client-side security patterns.
 risk: unknown
 source: community

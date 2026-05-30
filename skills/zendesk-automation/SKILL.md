@@ -1,5 +1,6 @@
 ---
 name: zendesk-automation
+category: automation/crm
 description: "Automate Zendesk tasks via Rube MCP (Composio): tickets, users, organizations, replies. Always search tools first for current schemas."
 risk: unknown
 source: community

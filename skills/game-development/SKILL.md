@@ -1,5 +1,6 @@
 ---
 name: game-development
+category: games
 description: "Game development orchestrator. Routes to platform-specific skills based on project needs."
 risk: unknown
 source: community

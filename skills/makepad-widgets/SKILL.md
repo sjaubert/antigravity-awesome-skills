@@ -1,5 +1,6 @@
 ---
 name: makepad-widgets
+category: frameworks/makepad
 description: |
   CRITICAL: Use for Makepad widgets and UI components. Triggers on:
   makepad widget, makepad View, makepad Button, makepad Label, makepad Image,

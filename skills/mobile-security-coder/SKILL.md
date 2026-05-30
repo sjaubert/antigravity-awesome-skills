@@ -1,5 +1,6 @@
 ---
 name: mobile-security-coder
+category: security
 description: Expert in secure mobile coding practices specializing in input validation, WebView security, and mobile-specific security patterns.
 risk: unknown
 source: community

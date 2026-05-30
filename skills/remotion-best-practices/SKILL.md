@@ -1,5 +1,6 @@
 ---
 name: remotion-best-practices
+category: frontend/design
 description: "Best practices for Remotion - Video creation in React"
 risk: unknown
 source: community

@@ -1,5 +1,6 @@
 ---
 name: startup-business-analyst-financial-projections
+category: business
 description: 'Create detailed 3-5 year financial model with revenue, costs, cash
 
   flow, and scenarios

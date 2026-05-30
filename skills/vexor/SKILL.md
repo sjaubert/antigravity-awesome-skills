@@ -1,5 +1,6 @@
 ---
 name: vexor
+category: uncategorized
 description: "Vector-powered CLI for semantic file search with a Claude/Codex skill"
 risk: safe
 source: "https://github.com/scarletkc/vexor"

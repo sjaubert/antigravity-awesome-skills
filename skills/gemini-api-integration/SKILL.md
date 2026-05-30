@@ -1,5 +1,6 @@
 ---
 name: gemini-api-integration
+category: ai-ml
 description: "Use when integrating Google Gemini API into projects. Covers model selection, multimodal inputs, streaming, function calling, and production best practices."
 risk: safe
 source: community

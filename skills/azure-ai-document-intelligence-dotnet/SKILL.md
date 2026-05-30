@@ -1,5 +1,6 @@
 ---
 name: azure-ai-document-intelligence-dotnet
+category: cloud/azure
 description: Azure AI Document Intelligence SDK for .NET. Extract text, tables, and structured data from documents using prebuilt and custom models.
 risk: unknown
 source: community

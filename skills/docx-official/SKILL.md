@@ -1,5 +1,6 @@
 ---
 name: docx-official
+category: uncategorized
 description: "Comprehensive document creation, editing, and analysis with support for tracked changes, comments, formatting preservation, and text extraction. When Claude needs to work with professional document..."
 risk: unknown
 source: community

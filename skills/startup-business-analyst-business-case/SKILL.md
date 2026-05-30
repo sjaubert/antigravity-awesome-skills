@@ -1,5 +1,6 @@
 ---
 name: startup-business-analyst-business-case
+category: business
 description: 'Generate comprehensive investor-ready business case document with
 
   market, solution, financials, and strategy

@@ -1,5 +1,6 @@
 ---
 name: azure-mgmt-arizeaiobservabilityeval-dotnet
+category: cloud/azure
 description: Azure Resource Manager SDK for Arize AI Observability and Evaluation (.NET).
 risk: unknown
 source: community

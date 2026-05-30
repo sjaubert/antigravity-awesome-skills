@@ -1,5 +1,6 @@
 ---
 name: signup-flow-cro
+category: frontend/cro
 description: "When the user wants to optimize signup, registration, account creation, or trial activation flows. Also use when the user mentions \"signup conversions,\" \"registration friction,\" \"signup..."
 risk: unknown
 source: community

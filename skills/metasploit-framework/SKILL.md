@@ -1,5 +1,6 @@
 ---
 name: metasploit-framework
+category: security
 description: "This skill should be used when the user asks to \"use Metasploit for penetration testing\", \"exploit vulnerabilities with msfconsole\", \"create payloads with msfvenom\", \"perform post-exp..."
 risk: unknown
 source: community

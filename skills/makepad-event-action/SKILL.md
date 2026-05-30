@@ -1,5 +1,6 @@
 ---
 name: makepad-event-action
+category: frameworks/makepad
 description: |
   CRITICAL: Use for Makepad event and action handling. Triggers on:
   makepad event, makepad action, Event enum, ActionTrait, handle_event,

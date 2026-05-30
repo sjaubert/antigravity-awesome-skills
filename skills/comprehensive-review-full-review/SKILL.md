@@ -1,5 +1,6 @@
 ---
 name: comprehensive-review-full-review
+category: uncategorized
 description: "Use when working with comprehensive review full review"
 risk: unknown
 source: community

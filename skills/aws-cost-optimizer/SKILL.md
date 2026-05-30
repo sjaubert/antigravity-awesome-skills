@@ -1,5 +1,6 @@
 ---
 name: aws-cost-optimizer
+category: cloud/aws
 description: "Comprehensive AWS cost analysis and optimization recommendations using AWS CLI and Cost Explorer"
 risk: safe
 source: community

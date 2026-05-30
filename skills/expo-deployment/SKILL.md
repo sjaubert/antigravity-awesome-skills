@@ -1,5 +1,6 @@
 ---
 name: expo-deployment
+category: frameworks/expo
 description: "Deploy Expo apps to production"
 risk: safe
 source: "https://github.com/expo/skills/tree/main/plugins/expo-deployment"

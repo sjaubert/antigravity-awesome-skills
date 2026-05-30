@@ -1,5 +1,6 @@
 ---
 name: github-automation
+category: tooling/git
 description: "Automate GitHub repositories, issues, pull requests, branches, CI/CD, and permissions via Rube MCP (Composio). Manage code workflows, review PRs, search code, and handle deployments programmatically."
 risk: unknown
 source: community

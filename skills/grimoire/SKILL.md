@@ -1,5 +1,6 @@
 ---
 name: grimoire
+category: uncategorized
 description: Grimoire
 ---
 

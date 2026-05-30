@@ -1,5 +1,6 @@
 ---
 name: web3-testing
+category: testing
 description: "Test smart contracts comprehensively using Hardhat and Foundry with unit tests, integration tests, and mainnet forking. Use when testing Solidity contracts, setting up blockchain test suites, or va..."
 risk: unknown
 source: community

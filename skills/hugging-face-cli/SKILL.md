@@ -1,5 +1,6 @@
 ---
 name: hugging-face-cli
+category: ai-ml
 description: "Execute Hugging Face Hub operations using the `hf` CLI. Use when the user needs to download models/datasets/spaces, upload files to Hub repositories, create repos, manage local cache, or run comput..."
 risk: safe
 source: "https://github.com/huggingface/skills/tree/main/skills/hugging-face-cli"

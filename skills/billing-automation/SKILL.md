@@ -1,5 +1,6 @@
 ---
 name: billing-automation
+category: domains/finance
 description: "Build automated billing systems for recurring payments, invoicing, subscription lifecycle, and dunning management. Use when implementing subscription billing, automating invoicing, or managing recu..."
 risk: unknown
 source: community

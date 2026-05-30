@@ -1,5 +1,6 @@
 ---
 name: azure-ai-openai-dotnet
+category: cloud/azure
 description: Azure OpenAI SDK for .NET. Client library for Azure OpenAI and OpenAI services. Use for chat completions, embeddings, image generation, audio transcription, and assistants.
 risk: unknown
 source: community

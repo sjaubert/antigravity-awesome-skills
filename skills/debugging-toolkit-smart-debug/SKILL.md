@@ -1,5 +1,6 @@
 ---
 name: debugging-toolkit-smart-debug
+category: uncategorized
 description: "Use when working with debugging toolkit smart debug"
 risk: unknown
 source: community

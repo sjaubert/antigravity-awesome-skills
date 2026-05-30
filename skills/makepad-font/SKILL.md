@@ -1,5 +1,6 @@
 ---
 name: makepad-font
+category: frameworks/makepad
 description: |
   CRITICAL: Use for Makepad font and text rendering. Triggers on:
   makepad font, makepad text, makepad glyph, makepad typography,

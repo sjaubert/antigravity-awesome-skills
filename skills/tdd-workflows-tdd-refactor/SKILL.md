@@ -1,5 +1,6 @@
 ---
 name: tdd-workflows-tdd-refactor
+category: frameworks/tdd
 description: "Use when working with tdd workflows tdd refactor"
 risk: unknown
 source: community

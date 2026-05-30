@@ -1,5 +1,6 @@
 ---
 name: datadog-automation
+category: automation/analytics
 description: "Automate Datadog tasks via Rube MCP (Composio): query metrics, search logs, manage monitors/dashboards, create events and downtimes. Always search tools first for current schemas."
 risk: unknown
 source: community

@@ -1,5 +1,6 @@
 ---
 name: onboarding-cro
+category: frontend/cro
 description: "When the user wants to optimize post-signup onboarding, user activation, first-run experience, or time-to-value. Also use when the user mentions \"onboarding flow,\" \"activation rate,\" \"u..."
 risk: unknown
 source: community

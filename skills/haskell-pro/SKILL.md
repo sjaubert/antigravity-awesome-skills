@@ -1,5 +1,6 @@
 ---
 name: haskell-pro
+category: languages/functional
 description: "Expert Haskell engineer specializing in advanced type systems, pure"
 risk: unknown
 source: community

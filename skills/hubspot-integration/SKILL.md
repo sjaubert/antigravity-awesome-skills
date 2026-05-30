@@ -1,5 +1,6 @@
 ---
 name: hubspot-integration
+category: automation/crm
 description: "Expert patterns for HubSpot CRM integration including OAuth authentication, CRM objects, associations, batch operations, webhooks, and custom objects. Covers Node.js and Python SDKs. Use when: hubs..."
 risk: unknown
 source: "vibeship-spawner-skills (Apache 2.0)"

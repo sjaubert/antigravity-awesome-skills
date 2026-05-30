@@ -1,5 +1,6 @@
 ---
 name: notion-automation
+category: automation/project-management
 description: "Automate Notion tasks via Rube MCP (Composio): pages, databases, blocks, comments, users. Always search tools first for current schemas."
 risk: unknown
 source: community

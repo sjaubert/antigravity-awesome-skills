@@ -1,5 +1,6 @@
 ---
 name: hybrid-cloud-architect
+category: cloud/general
 description: Expert hybrid cloud architect specializing in complex multi-cloud solutions across AWS/Azure/GCP and private clouds (OpenStack/VMware).
 risk: unknown
 source: community

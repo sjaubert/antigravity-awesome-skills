@@ -1,5 +1,6 @@
 ---
 name: hugging-face-jobs
+category: ai-ml
 description: "This skill should be used when users want to run any workload on Hugging Face Jobs infrastructure. Covers UV scripts, Docker-based jobs, hardware selection, cost estimation, authentication with tok..."
 risk: safe
 source: "https://github.com/huggingface/skills/tree/main/skills/hugging-face-jobs"

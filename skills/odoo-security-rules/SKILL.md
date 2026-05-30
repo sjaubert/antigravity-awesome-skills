@@ -1,5 +1,6 @@
 ---
 name: odoo-security-rules
+category: domains/odoo
 description: "Expert in Odoo access control: ir.model.access.csv, record rules (ir.rule), groups, and multi-company security patterns."
 risk: safe
 source: "self"

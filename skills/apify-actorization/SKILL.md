@@ -1,5 +1,6 @@
 ---
 name: apify-actorization
+category: domains/apify
 description: "Convert existing projects into Apify Actors - serverless cloud programs. Actorize JavaScript/TypeScript (SDK with Actor.init/exit), Python (async context manager), or any language (CLI wrapper). Us..."
 ---
 

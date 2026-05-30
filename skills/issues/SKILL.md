@@ -1,5 +1,6 @@
 ---
 name: issues
+category: uncategorized
 description: Interact with GitHub issues - create, list, and view issues.
 allowed-tools: Bash(gh *)
 metadata:

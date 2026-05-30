@@ -1,5 +1,6 @@
 ---
 name: jira-automation
+category: automation/project-management
 description: "Automate Jira tasks via Rube MCP (Composio): issues, projects, sprints, boards, comments, users. Always search tools first for current schemas."
 risk: unknown
 source: community

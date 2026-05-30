@@ -1,5 +1,6 @@
 ---
 name: linear-claude-skill
+category: automation/project-management
 description: "Manage Linear issues, projects, and teams"
 risk: safe
 source: "https://github.com/wrsmith108/linear-claude-skill"

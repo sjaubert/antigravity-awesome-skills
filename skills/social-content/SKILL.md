@@ -1,5 +1,6 @@
 ---
 name: social-content
+category: content/writing
 description: "When the user wants help creating, scheduling, or optimizing social media content for LinkedIn, Twitter/X, Instagram, TikTok, Facebook, or other platforms. Also use when the user mentions 'LinkedIn..."
 risk: unknown
 source: community

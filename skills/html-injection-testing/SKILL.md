@@ -1,5 +1,6 @@
 ---
 name: html-injection-testing
+category: security
 description: "This skill should be used when the user asks to \"test for HTML injection\", \"inject HTML into web pages\", \"perform HTML injection attacks\", \"deface web applications\", or \"test conten..."
 risk: unknown
 source: community
