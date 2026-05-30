@@ -1,6 +1,6 @@
 ---
 name: pygraphistry
-category: uncategorized
+category: data-science
 description: Pygraphistry
 ---
 

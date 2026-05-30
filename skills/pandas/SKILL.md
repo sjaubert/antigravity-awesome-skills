@@ -1,6 +1,6 @@
 ---
 name: pandas
-category: uncategorized
+category: data-science
 description: Pandas
 risk: unknown
 source: community

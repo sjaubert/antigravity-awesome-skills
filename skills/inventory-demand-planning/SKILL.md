@@ -1,6 +1,6 @@
 ---
 name: inventory-demand-planning
-category: uncategorized
+category: domains/operations
 description: Codified expertise for demand forecasting, safety stock optimisation, replenishment planning, and promotional lift estimation at multi-location retailers.
 risk: safe
 source: https://github.com/ai-evos/agent-skills

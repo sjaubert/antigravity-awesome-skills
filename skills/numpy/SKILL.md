@@ -1,6 +1,6 @@
 ---
 name: numpy
-category: uncategorized
+category: data-science
 description: Numpy
 ---
 

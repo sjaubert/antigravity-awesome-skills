@@ -1,6 +1,6 @@
 ---
 name: quality-nonconformance
-category: uncategorized
+category: domains/operations
 description: Codified expertise for quality control, non-conformance investigation, root cause analysis, corrective action, and supplier quality management in regulated manufacturing.
 risk: safe
 source: https://github.com/ai-evos/agent-skills

@@ -1,6 +1,6 @@
 ---
 name: great-tables
-category: uncategorized
+category: data-science
 description: Great Tables
 ---
 

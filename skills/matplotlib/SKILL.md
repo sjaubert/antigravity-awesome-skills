@@ -1,6 +1,6 @@
 ---
 name: matplotlib
-category: uncategorized
+category: data-science
 description: Low-level plotting library for full customization. Use when you need fine-grained control over every plot element, creating novel plot types, or integrating with specific scientific workflows. Export to PNG/PDF/SVG for publication. For quick...
 license: https://github.com/matplotlib/matplotlib/tree/main/LICENSE
 metadata:

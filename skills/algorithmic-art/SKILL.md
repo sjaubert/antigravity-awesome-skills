@@ -1,6 +1,6 @@
 ---
 name: algorithmic-art
-category: uncategorized
+category: frontend/design
 description: "Creating algorithmic art using p5.js with seeded randomness and interactive parameter exploration. Use this when users request creating art using code, generative art, algorithmic art, flow fields,..."
 risk: unknown
 source: community

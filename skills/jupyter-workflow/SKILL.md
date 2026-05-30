@@ -1,6 +1,6 @@
 ---
 name: jupyter-workflow
-category: uncategorized
+category: data-science
 description: Jupyter Workflow
 ---
 

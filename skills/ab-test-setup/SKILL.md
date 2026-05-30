@@ -1,6 +1,6 @@
 ---
 name: ab-test-setup
-category: uncategorized
+category: testing
 description: "Structured guide for setting up A/B tests with mandatory gates for hypothesis, metrics, and execution readiness."
 risk: unknown
 source: community

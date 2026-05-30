@@ -1,6 +1,6 @@
 ---
 name: bitbucket-automation
-category: uncategorized
+category: automation/tools
 description: "Automate Bitbucket repositories, pull requests, branches, issues, and workspace management via Rube MCP (Composio). Always search tools first for current schemas."
 risk: unknown
 source: community

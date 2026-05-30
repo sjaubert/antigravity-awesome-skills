@@ -1,6 +1,6 @@
 ---
 name: i18n-localization
-category: uncategorized
+category: frontend/design
 description: "Internationalization and localization patterns. Detecting hardcoded strings, managing translations, locale files, RTL support."
 risk: unknown
 source: community

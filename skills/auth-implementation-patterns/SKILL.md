@@ -1,6 +1,6 @@
 ---
 name: auth-implementation-patterns
-category: uncategorized
+category: security
 description: "Master authentication and authorization patterns including JWT, OAuth2, session management, and RBAC to build secure, scalable access control systems. Use when implementing auth systems, securing A..."
 risk: unknown
 source: community

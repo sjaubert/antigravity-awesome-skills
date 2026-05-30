@@ -1,6 +1,6 @@
 ---
 name: confluence-automation
-category: uncategorized
+category: automation/tools
 description: "Automate Confluence page creation, content search, space management, labels, and hierarchy navigation via Rube MCP (Composio). Always search tools first for current schemas."
 risk: unknown
 source: community

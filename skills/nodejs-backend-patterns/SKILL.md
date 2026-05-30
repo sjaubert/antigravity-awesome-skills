@@ -1,6 +1,6 @@
 ---
 name: nodejs-backend-patterns
-category: uncategorized
+category: languages/typescript
 description: "Build production-ready Node.js backend services with Express/Fastify, implementing middleware patterns, error handling, authentication, database integration, and API design best practices. Use when..."
 risk: unknown
 source: community

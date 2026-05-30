@@ -1,6 +1,6 @@
 ---
 name: trigger-dev
-category: uncategorized
+category: frameworks/other
 description: "Trigger.dev expert for background jobs, AI workflows, and reliable async execution with excellent developer experience and TypeScript-first design. Use when: trigger.dev, trigger dev, background ta..."
 risk: unknown
 source: "vibeship-spawner-skills (Apache 2.0)"

@@ -1,6 +1,6 @@
 ---
 name: production-scheduling
-category: uncategorized
+category: domains/operations
 description: Codified expertise for production scheduling, job sequencing, line balancing, changeover optimisation, and bottleneck resolution in discrete and batch manufacturing.
 risk: safe
 source: https://github.com/ai-evos/agent-skills

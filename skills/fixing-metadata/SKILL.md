@@ -1,6 +1,6 @@
 ---
 name: fixing-metadata
-category: uncategorized
+category: frontend/design
 description: >
   Audit and fix HTML metadata including page titles, meta descriptions, canonical URLs, Open Graph
   tags, Twitter cards, favicons, JSON-LD structured data, and robots directives. Use when adding

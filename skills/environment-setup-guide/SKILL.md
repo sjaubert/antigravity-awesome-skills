@@ -1,6 +1,6 @@
 ---
 name: environment-setup-guide
-category: uncategorized
+category: devops
 description: "Guide developers through setting up development environments with proper tools, dependencies, and configurations"
 risk: unknown
 source: community

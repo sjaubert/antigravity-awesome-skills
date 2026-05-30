@@ -1,6 +1,6 @@
 ---
 name: data-visualization
-category: uncategorized
+category: data-science
 description: Data Visualization
 ---
 

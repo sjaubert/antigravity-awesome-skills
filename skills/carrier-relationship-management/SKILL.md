@@ -1,6 +1,6 @@
 ---
 name: carrier-relationship-management
-category: uncategorized
+category: domains/operations
 description: Codified expertise for managing carrier portfolios, negotiating freight rates, tracking carrier performance, allocating freight, and maintaining strategic carrier relationships.
 risk: safe
 source: https://github.com/ai-evos/agent-skills

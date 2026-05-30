@@ -1,7 +1,7 @@
 ---
 name: videodb
 description: Video and audio perception, indexing, and editing. Ingest files/URLs/live streams, build visual/spoken indexes, search with timestamps, edit timelines, add overlays/subtitles, generate media, and create real-time alerts.
-category: uncategorized
+category: ai-ml
 risk: safe
 source: community
 tags: "[video, editing, transcription, subtitles, search, streaming, ai-generation, media, live-streams, desktop-capture]"

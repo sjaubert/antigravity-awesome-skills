@@ -1,6 +1,6 @@
 ---
 name: web-games
-category: frontend/design
+category: games
 description: "Web browser game development principles. Framework selection, WebGPU, optimization, PWA."
 risk: unknown
 source: community

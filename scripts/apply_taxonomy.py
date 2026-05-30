@@ -83,6 +83,11 @@ TAXONOMY_RULES = [
     # ── Frameworks — C4 Architecture ─────────────────────────
     (lambda s: starts(s, 'c4-'), 'frameworks/c4'),
 
+    # ── Frameworks — SvelteKit / Astro / Hono / Convex ────────
+    (lambda s: s in ('sveltekit', 'astro', 'hono', 'convex', 'inngest',
+                     'trigger-dev', 'temporal-golang-pro', 'temporal-python-pro',
+                     'temporal-python-testing', 'temporal-golang'), 'frameworks/other'),
+
     # ── Domains — Odoo ────────────────────────────────────────
     (lambda s: starts(s, 'odoo-'), 'domains/odoo'),
 
@@ -112,10 +117,15 @@ TAXONOMY_RULES = [
     # ── Domains — Wiki ────────────────────────────────────────
     (lambda s: starts(s, 'wiki-'), 'domains/wiki'),
 
+    # ── Domains — Logistics / Supply Chain ────────────────────
+    (lambda s: matches(s, 'logistics', 'supply-chain', 'carrier-relation',
+                           'inventory', 'customs-trade', 'returns-reverse',
+                           'production-sched', 'quality-nonconf', 'energy-procure'), 'domains/operations'),
+
     # ── Automation — CRM & SaaS tools ────────────────────────
     (lambda s: matches(s, 'hubspot', 'salesforce', 'pipedrive', 'close-auto',
                            'intercom', 'zendesk', 'freshdesk', 'freshservice',
-                           'helpdesk'), 'automation/crm'),
+                           'helpdesk', 'activecampaign'), 'automation/crm'),
 
     # ── Automation — Project Management ───────────────────────
     (lambda s: matches(s, 'jira', 'linear', 'asana', 'monday', 'clickup',
@@ -127,20 +137,25 @@ TAXONOMY_RULES = [
                            'postmark', 'brevo', 'mailchimp', 'convertkit',
                            'klaviyo', 'outlook', 'gmail'), 'automation/communication'),
 
+    # ── Automation — Calendar & Scheduling ────────────────────
+    (lambda s: matches(s, 'calendly', 'cal-com', 'google-calendar',
+                           'outlook-calendar'), 'automation/scheduling'),
+
     # ── Automation — Productivity & Cloud storage ──────────────
     (lambda s: matches(s, 'google-docs', 'google-drive', 'google-sheets', 'google-slides',
-                           'google-calendar', 'one-drive', 'dropbox', 'box-auto',
+                           'one-drive', 'dropbox', 'box-auto',
                            'canva', 'figma', 'miro', 'airtable', 'docusign',
-                           'office-productivity'), 'automation/productivity'),
+                           'office-productivity', 'libreoffice', 'obsidian'), 'automation/productivity'),
 
     # ── Automation — Monitoring & Analytics ───────────────────
     (lambda s: matches(s, 'datadog', 'pagerduty', 'sentry-auto', 'posthog',
                            'amplitude', 'mixpanel', 'segment-auto', 'google-analytics',
-                           'analytics-tracking'), 'automation/analytics'),
+                           'analytics-tracking', 'langfuse'), 'automation/analytics'),
 
     # ── Automation — Infra & DevOps tools ─────────────────────
     (lambda s: matches(s, 'vercel-auto', 'render-auto', 'circleci', 'bamboohr',
-                           'make-auto', 'zapier', 'square-auto', 'stripe-auto'), 'automation/tools'),
+                           'make-auto', 'zapier', 'square-auto', 'stripe-auto',
+                           'bitbucket-auto', 'confluence-auto', 'appdeploy'), 'automation/tools'),
 
     # ── Automation — Social Media ─────────────────────────────
     (lambda s: matches(s, 'instagram', 'tiktok', 'linkedin-auto', 'twitter',
@@ -148,7 +163,7 @@ TAXONOMY_RULES = [
 
     # ── AI / ML ───────────────────────────────────────────────
     (lambda s: starts(s, 'llm-', 'rag-', 'langchain', 'langgraph', 'crewai',
-                          'pydantic-ai', 'langfuse') or
+                          'pydantic-ai') or
                matches(s, 'ai-agent', 'multi-agent', 'agent-eval', 'agent-memory',
                            'agent-orches', 'agent-tool', 'parallel-agent', 'subagent',
                            'agent-manager', 'agent-framework', 'hosted-agent',
@@ -168,7 +183,9 @@ TAXONOMY_RULES = [
                            'dispatching-parallel', 'bdi-mental',
                            'hierarchical-agent', 'conversation-memory',
                            'memory-system', 'fal-',
-                           'autonomous-agent', 'ai-analyzer'), 'ai-ml'),
+                           'autonomous-agent', 'ai-analyzer',
+                           'seek-and-analyze', 'videodb', 'notebooklm',
+                           'context7-auto'), 'ai-ml'),
 
     # ── Security ──────────────────────────────────────────────
     (lambda s: matches(s, 'security', 'pentest', 'red-team', 'malware',
@@ -189,26 +206,43 @@ TAXONOMY_RULES = [
                            'building-secure', 'pci-compliance', 'gdpr',
                            'differential-review', 'secrets-manage',
                            'varlock', 'monte-carlo-vuln',
-                           'supply-chain-risk', 'agentic-actions-audit'), 'security'),
+                           'supply-chain-risk', 'agentic-actions-audit',
+                           'api-fuzzing', 'api-security', 'web-security',
+                           'auth-implementation', 'broken-auth',
+                           'claude-settings-audit', 'cred-omega',
+                           'privacy-by-design'), 'security'),
+
+    # ── Data Science & Scientific Computing ───────────────────
+    (lambda s: matches(s, 'numpy', 'pandas', 'matplotlib', 'scipy', 'sympy',
+                           'seaborn', 'plotly', 'statsmodels', 'scikit-learn',
+                           'polars', 'great-tables', 'biopython', 'astropy',
+                           'scanpy', 'cirq', 'qiskit', 'networkx',
+                           'pygraphistry', 'molykit', 'data-visualization',
+                           'data-storytelling', 'jupyter-workflow',
+                           'data-quality'), 'data-science'),
 
     # ── Languages — Python ────────────────────────────────────
-    (lambda s: starts(s, 'python-') or s in ('python-pro',), 'languages/python'),
+    (lambda s: starts(s, 'python-') or s in ('python-pro', 'async-python-patterns',
+                                               'fastapi-pro', 'fastapi-router-py',
+                                               'fastapi-templates', 'django-pro',
+                                               'django-access-review', 'django-perf-review',
+                                               'pydantic-models-py'), 'languages/python'),
 
     # ── Languages — TypeScript / JavaScript ───────────────────
     (lambda s: matches(s, 'typescript', 'javascript-pro', 'javascript-mastery',
                            'javascript-testing', 'modern-javascript', 'bun-development',
-                           'javascript-typescript'), 'languages/typescript'),
+                           'javascript-typescript', 'nodejs-best-pract', 'nodejs-backend'), 'languages/typescript'),
 
     # ── Languages — Go ────────────────────────────────────────
     (lambda s: starts(s, 'golang', 'go-') or s == 'go-concurrency-patterns', 'languages/go'),
 
     # ── Languages — Rust ──────────────────────────────────────
-    (lambda s: starts(s, 'rust-') or s in ('rust-pro',), 'languages/rust'),
+    (lambda s: starts(s, 'rust-') or s in ('rust-pro', 'rust-async-patterns'), 'languages/rust'),
 
     # ── Languages — Java ──────────────────────────────────────
     (lambda s: s in ('java-pro',) or starts(s, 'kotlin-'), 'languages/java'),
 
-    # ── Languages — C / C++ ───────────────────────────────────
+    # ── Languages — C / C++ / Embedded ────────────────────────
     (lambda s: s in ('c-pro', 'cpp-pro', 'arm-cortex-expert'), 'languages/c'),
 
     # ── Languages — C# / .NET ─────────────────────────────────
@@ -231,7 +265,8 @@ TAXONOMY_RULES = [
 
     # ── Languages — Bash / Shell ──────────────────────────────
     (lambda s: matches(s, 'bash-', 'bash-pro', 'linux-shell', 'posix-shell',
-                           'busybox', 'os-scripting', 'powershell'), 'languages/shell'),
+                           'busybox', 'os-scripting', 'powershell',
+                           'windows-shell'), 'languages/shell'),
 
     # ── Database ──────────────────────────────────────────────
     (lambda s: matches(s, 'database', 'postgres', 'postgresql', 'neon-postgres',
@@ -249,7 +284,12 @@ TAXONOMY_RULES = [
                            'service-mesh', 'distributed-trac', 'observability',
                            'slo-implem', 'incident-', 'on-call', 'postmortem',
                            'server-manage', 'linux-trouble', 'network-',
-                           'mtls-', 'loki-mode', 'airflow'), 'devops'),
+                           'mtls-', 'airflow',
+                           'bazel-build', 'environment-setup',
+                           'cdk-patterns', 'nx-workspace',
+                           'monorepo-manage',
+                           'deployment-pipeline', 'deployment-valid',
+                           'deployment-proc'), 'devops'),
 
     # ── Frontend & Design ─────────────────────────────────────
     (lambda s: matches(s, 'frontend-design', 'frontend-dev', 'frontend-developer',
@@ -259,15 +299,21 @@ TAXONOMY_RULES = [
                            'tailwind', 'shadcn', 'radix-ui',
                            'scroll-experience', 'baseline-ui',
                            'stitch-', 'remotion', 'theme-factory',
-                           'font-', 'favicon', 'generate-image', 'algo-art',
-                           'web-games', 'animation', 'magic-animat',
+                           'favicon', 'algo-art',
+                           'magic-animat',
                            'shader-programm', 'animejs',
                            'nanobanana-ppt', 'frontend-slides',
-                           'interactive-port'), 'frontend/design'),
+                           'interactive-port', '3d-web-experience',
+                           'algorithmic-art', 'animejs-animation',
+                           'accessibility-compliance', 'wcag-audit',
+                           'screen-reader', 'fixing-accessibility',
+                           'fixing-metadata', 'fixing-motion',
+                           'i18n-local', 'chat-widget',
+                           'web-performance', 'form-cro'), 'frontend/design'),
 
     # ── Frontend — CRO / Marketing ────────────────────────────
-    (lambda s: matches(s, '-cro', 'form-cro', 'page-cro', 'onboarding-cro',
-                           'signup-flow-cro', 'popup-cro', 'paywall-upgrade',
+    (lambda s: matches(s, 'onboarding-cro', 'signup-flow-cro', 'popup-cro',
+                           'paywall-upgrade', 'page-cro',
                            'referral-program', 'free-tool-strat', 'launch-strat'), 'frontend/cro'),
 
     # ── Mobile ────────────────────────────────────────────────
@@ -278,12 +324,11 @@ TAXONOMY_RULES = [
     # ── Testing & QA ──────────────────────────────────────────
     (lambda s: matches(s, 'testing-qa', 'testing-pattern', 'test-driven',
                            'e2e-testing', 'playwright', 'webapp-testing', 'test-autom',
-                           'test-fixing', 'test-driven', 'bats-testing',
+                           'test-fixing', 'bats-testing',
                            'javascript-testing', 'python-testing',
                            'performance-testing', 'web3-testing',
-                           'e2e-testing-patt', 'testing-hand',
-                           'tdd-orchestrator') and not matches(s, 'tdd-workflow', 'tdd-workflows'),
-                           'testing'),
+                           'testing-hand', 'tdd-orchestrator',
+                           'ab-test-setup'), 'testing'),
 
     # ── Game Development ──────────────────────────────────────
     (lambda s: starts(s, 'game-development') or

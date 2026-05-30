@@ -1,6 +1,6 @@
 ---
 name: django-access-review
-category: uncategorized
+category: languages/python
 description: django-access-review
 ---
 

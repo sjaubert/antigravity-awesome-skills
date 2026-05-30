@@ -1,6 +1,6 @@
 ---
 name: scanpy
-category: uncategorized
+category: data-science
 description: Standard single-cell RNA-seq analysis pipeline. Use for QC, normalization, dimensionality reduction (PCA/UMAP/t-SNE), clustering, differential expression, and visualization. Best for exploratory scRNA-seq analysis with established workflows. For...
 license: SD-3-Clause license
 metadata:

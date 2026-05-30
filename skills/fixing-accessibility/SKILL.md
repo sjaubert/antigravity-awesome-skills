@@ -1,6 +1,6 @@
 ---
 name: fixing-accessibility
-category: uncategorized
+category: frontend/design
 description: Audit and fix HTML accessibility issues including ARIA labels, keyboard navigation, focus management, color contrast, and form errors. Use when adding interactive controls, forms, dialogs, or reviewing WCAG compliance.
 ---
 

@@ -1,6 +1,6 @@
 ---
 name: scipy
-category: uncategorized
+category: data-science
 description: Scipy
 ---
 

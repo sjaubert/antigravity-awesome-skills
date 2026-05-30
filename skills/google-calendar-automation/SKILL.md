@@ -1,6 +1,6 @@
 ---
 name: google-calendar-automation
-category: automation/productivity
+category: automation/scheduling
 description: |
   Interact with Google Calendar - list calendars, view events, create/update/delete events, and find free time.
   Use when user asks to: check calendar, schedule a meeting, create an event, find available time, list upcoming events,

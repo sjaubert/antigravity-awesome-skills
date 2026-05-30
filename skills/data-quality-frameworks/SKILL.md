@@ -1,6 +1,6 @@
 ---
 name: data-quality-frameworks
-category: uncategorized
+category: data-science
 description: "Implement data quality validation with Great Expectations, dbt tests, and data contracts. Use when building data quality pipelines, implementing validation rules, or establishing data contracts."
 risk: unknown
 source: community
