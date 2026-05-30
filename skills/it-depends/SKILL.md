@@ -1,6 +1,6 @@
 ---
 name: it-depends
-category: uncategorized
+category: meta
 description: It Depends
 ---
 

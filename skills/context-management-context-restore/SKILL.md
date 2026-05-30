@@ -1,6 +1,6 @@
 ---
 name: context-management-context-restore
-category: uncategorized
+category: meta
 description: "Use when working with context management context restore"
 risk: unknown
 source: community

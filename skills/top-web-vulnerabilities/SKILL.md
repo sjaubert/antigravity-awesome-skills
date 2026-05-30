@@ -1,6 +1,6 @@
 ---
 name: top-web-vulnerabilities
-category: uncategorized
+category: security
 description: "This skill should be used when the user asks to \"identify web application vulnerabilities\", \"explain common security flaws\", \"understand vulnerability categories\", \"learn about inject..."
 risk: unknown
 source: community

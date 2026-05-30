@@ -1,6 +1,6 @@
 ---
 name: vr-ar
-category: uncategorized
+category: games
 description: "VR/AR development principles. Comfort, interaction, performance requirements."
 risk: unknown
 source: community

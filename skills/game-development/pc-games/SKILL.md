@@ -1,6 +1,6 @@
 ---
 name: pc-games
-category: uncategorized
+category: games
 description: "PC and console game development principles. Engine selection, platform features, optimization strategies."
 risk: unknown
 source: community

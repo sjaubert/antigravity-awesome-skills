@@ -1,6 +1,6 @@
 ---
 name: content-marketer
-category: uncategorized
+category: content/writing
 description: Elite content marketing strategist specializing in AI-powered content creation, omnichannel distribution, SEO optimization, and data-driven performance marketing.
 risk: unknown
 source: community

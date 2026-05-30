@@ -1,6 +1,6 @@
 ---
 name: geo-fundamentals
-category: uncategorized
+category: devops
 description: "Generative Engine Optimization for AI search engines (ChatGPT, Claude, Perplexity)."
 risk: unknown
 source: community

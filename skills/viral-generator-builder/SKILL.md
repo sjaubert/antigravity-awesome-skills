@@ -1,6 +1,6 @@
 ---
 name: viral-generator-builder
-category: uncategorized
+category: business
 description: "Expert in building shareable generator tools that go viral - name generators, quiz makers, avatar creators, personality tests, and calculator tools. Covers the psychology of sharing, viral mechanic..."
 risk: unknown
 source: "vibeship-spawner-skills (Apache 2.0)"

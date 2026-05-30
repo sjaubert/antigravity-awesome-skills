@@ -1,6 +1,6 @@
 ---
 name: data-engineering-data-driven-feature
-category: uncategorized
+category: data-science
 description: "Build features guided by data insights, A/B testing, and continuous measurement using specialized agents for analysis, implementation, and experimentation."
 risk: unknown
 source: community

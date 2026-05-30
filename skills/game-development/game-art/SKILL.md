@@ -1,6 +1,6 @@
 ---
 name: game-art
-category: uncategorized
+category: games
 description: "Game art principles. Visual style selection, asset pipeline, animation workflow."
 risk: unknown
 source: community

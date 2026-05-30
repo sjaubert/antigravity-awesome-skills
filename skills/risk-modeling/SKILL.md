@@ -1,6 +1,6 @@
 ---
 name: risk-modeling
-category: uncategorized
+category: business
 description: Risk Modeling
 ---
 

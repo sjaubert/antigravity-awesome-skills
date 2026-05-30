@@ -1,6 +1,6 @@
 ---
 name: last30days
-category: uncategorized
+category: content/writing
 description: "Research a topic from the last 30 days on Reddit + X + Web, become an expert, and write copy-paste-ready prompts for the user's target tool."
 risk: unknown
 source: community

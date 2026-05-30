@@ -1,6 +1,6 @@
 ---
 name: voice-ai-engine-development
-category: uncategorized
+category: ai-ml
 description: "Build real-time conversational AI voice engines using async worker pipelines, streaming transcription, LLM agents, and TTS synthesis with interrupt handling and multi-provider support"
 risk: unknown
 source: community

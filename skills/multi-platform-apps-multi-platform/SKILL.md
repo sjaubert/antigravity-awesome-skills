@@ -1,6 +1,6 @@
 ---
 name: multi-platform-apps-multi-platform
-category: uncategorized
+category: devops
 description: "Build and deploy the same feature consistently across web, mobile, and desktop platforms using API-first architecture and parallel implementation strategies."
 risk: unknown
 source: community

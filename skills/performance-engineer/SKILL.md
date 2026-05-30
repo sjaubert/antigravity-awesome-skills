@@ -1,6 +1,6 @@
 ---
 name: performance-engineer
-category: uncategorized
+category: tooling/debugging
 description: "Expert performance engineer specializing in modern observability,"
 risk: unknown
 source: community

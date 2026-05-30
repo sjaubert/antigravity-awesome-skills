@@ -1,6 +1,6 @@
 ---
 name: core-components
-category: uncategorized
+category: frontend/design
 description: "Core component library and design system patterns. Use when building UI, using design tokens, or working with the component library."
 risk: unknown
 source: community

@@ -1,6 +1,6 @@
 ---
 name: data-structure-protocol
-category: uncategorized
+category: architecture
 description: "Give agents persistent structural memory of a codebase — navigate dependencies, track public APIs, and understand why connections exist without re-reading the whole repo."
 risk: safe
 source: "https://github.com/k-kolomeitsev/data-structure-protocol"

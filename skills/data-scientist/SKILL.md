@@ -1,6 +1,6 @@
 ---
 name: data-scientist
-category: uncategorized
+category: data-science
 description: Expert data scientist for advanced analytics, machine learning, and statistical modeling. Handles complex data analysis, predictive modeling, and business intelligence.
 risk: unknown
 source: community

@@ -1,6 +1,6 @@
 ---
 name: yara-authoring
-category: uncategorized
+category: security
 description: Yara Authoring
 ---
 

@@ -1,6 +1,6 @@
 ---
 name: claude-code-guide
-category: uncategorized
+category: meta
 description: "Master guide for using Claude Code effectively. Includes configuration templates, prompting strategies \\\"Thinking\\\" keywords, debugging techniques, and best practices for interacting wit..."
 risk: unknown
 source: community

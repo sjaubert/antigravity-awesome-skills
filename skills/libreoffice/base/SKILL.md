@@ -1,7 +1,7 @@
 ---
 name: base
 description: "Database management, forms, reports, and data operations with LibreOffice Base."
-category: uncategorized
+category: database
 risk: safe
 source: personal
 date_added: "2026-02-27"

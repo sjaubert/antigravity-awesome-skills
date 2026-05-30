@@ -1,6 +1,6 @@
 ---
 name: legacy-modernizer
-category: uncategorized
+category: tooling/code-quality
 description: Refactor legacy codebases, migrate outdated frameworks, and implement gradual modernization. Handles technical debt, dependency updates, and backward compatibility.
 risk: unknown
 source: community

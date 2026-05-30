@@ -1,6 +1,6 @@
 ---
 name: exa-search
-category: uncategorized
+category: ai-ml
 description: "Semantic search, similar content discovery, and structured research using Exa API"
 risk: unknown
 source: community

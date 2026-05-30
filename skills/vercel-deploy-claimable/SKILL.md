@@ -1,6 +1,6 @@
 ---
 name: vercel-deploy-claimable
-category: uncategorized
+category: devops
 description: Vercel Deploy Claimable
 ---
 

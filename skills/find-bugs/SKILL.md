@@ -1,6 +1,6 @@
 ---
 name: find-bugs
-category: uncategorized
+category: tooling/code-quality
 description: Find bugs, security vulnerabilities, and code quality issues in local branch changes. Use when asked to review changes, find bugs, security review, or audit code on the current branch.
 ---
 

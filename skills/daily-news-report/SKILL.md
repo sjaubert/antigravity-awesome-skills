@@ -1,6 +1,6 @@
 ---
 name: daily-news-report
-category: uncategorized
+category: business
 description: "Scrapes content based on a preset URL list, filters high-quality technical information, and generates daily Markdown reports."
 risk: unknown
 source: community

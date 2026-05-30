@@ -1,6 +1,6 @@
 ---
 name: workflow-skill-design
-category: uncategorized
+category: automation/tools
 description: Workflow Skill Design
 ---
 

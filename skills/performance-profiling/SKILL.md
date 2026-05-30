@@ -1,6 +1,6 @@
 ---
 name: performance-profiling
-category: uncategorized
+category: tooling/debugging
 description: "Performance profiling principles. Measurement, analysis, and optimization techniques."
 risk: unknown
 source: community

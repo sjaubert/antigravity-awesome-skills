@@ -1,6 +1,6 @@
 ---
 name: design-orchestration
-category: uncategorized
+category: frontend/design
 description: Orchestrates design workflows by routing work through brainstorming, multi-agent review, and execution readiness in the correct order.
 risk: unknown
 source: community

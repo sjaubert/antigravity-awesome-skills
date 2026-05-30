@@ -1,6 +1,6 @@
 ---
 name: claude-scientific-skills
-category: uncategorized
+category: meta
 description: "Scientific research and analysis skills"
 risk: safe
 source: "https://github.com/K-Dense-AI/claude-scientific-skills"

@@ -1,6 +1,6 @@
 ---
 name: receiving-code-review
-category: uncategorized
+category: tooling/code-quality
 description: "Use when receiving code review feedback, before implementing suggestions, especially if feedback seems unclear or technically questionable - requires technical rigor and verification, not performat..."
 risk: unknown
 source: community

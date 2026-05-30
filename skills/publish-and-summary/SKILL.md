@@ -1,6 +1,6 @@
 ---
 name: publish-and-summary
-category: uncategorized
+category: tooling/git
 description: Publish And Summary
 ---
 

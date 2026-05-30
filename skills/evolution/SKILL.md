@@ -1,6 +1,6 @@
 ---
 name: evolution
-category: uncategorized
+category: meta
 description: |
   CRITICAL: Use for makepad-skills self-evolution and contribution. Triggers on:
   evolve, evolution, contribute, contribution, self-improve, self-improvement,

@@ -1,6 +1,6 @@
 ---
 name: distributed-debugging-debug-trace
-category: uncategorized
+category: tooling/debugging
 description: "You are a debugging expert specializing in setting up comprehensive debugging environments, distributed tracing, and diagnostic tools. Configure debugging workflows, implement tracing solutions, an..."
 risk: unknown
 source: community

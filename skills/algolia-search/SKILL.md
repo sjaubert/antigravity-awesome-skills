@@ -1,6 +1,6 @@
 ---
 name: algolia-search
-category: uncategorized
+category: domains/ecommerce
 description: "Expert patterns for Algolia search implementation, indexing strategies, React InstantSearch, and relevance tuning Use when: adding search to, algolia, instantsearch, search api, search functionality."
 risk: unknown
 source: "vibeship-spawner-skills (Apache 2.0)"

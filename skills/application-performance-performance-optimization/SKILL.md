@@ -1,6 +1,6 @@
 ---
 name: application-performance-performance-optimization
-category: uncategorized
+category: tooling/debugging
 description: "Optimize end-to-end application performance with profiling, observability, and backend/frontend tuning. Use when coordinating performance optimization across the stack."
 risk: unknown
 source: community

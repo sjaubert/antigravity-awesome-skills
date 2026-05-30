@@ -1,6 +1,6 @@
 ---
 name: chrome-extension-developer
-category: uncategorized
+category: automation/tools
 description: "Expert in building Chrome Extensions using Manifest V3. Covers background scripts, service workers, content scripts, and cross-context communication."
 risk: safe
 source: community

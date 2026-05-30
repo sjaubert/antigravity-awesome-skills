@@ -1,6 +1,6 @@
 ---
 name: ui-visual-validator
-category: uncategorized
+category: frontend/design
 description: Rigorous visual validation expert specializing in UI testing, design system compliance, and accessibility verification.
 risk: unknown
 source: community

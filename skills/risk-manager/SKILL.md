@@ -1,6 +1,6 @@
 ---
 name: risk-manager
-category: uncategorized
+category: business
 description: Monitor portfolio risk, R-multiples, and position limits. Creates hedging strategies, calculates expectancy, and implements stop-losses.
 risk: unknown
 source: community

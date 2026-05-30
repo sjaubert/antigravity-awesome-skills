@@ -1,6 +1,6 @@
 ---
 name: upgrading-expo
-category: uncategorized
+category: frameworks/expo
 description: "Upgrade Expo SDK versions"
 risk: safe
 source: "https://github.com/expo/skills/tree/main/plugins/upgrading-expo"

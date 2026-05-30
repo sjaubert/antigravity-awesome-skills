@@ -1,6 +1,6 @@
 ---
 name: game-audio
-category: uncategorized
+category: games
 description: "Game audio principles. Sound design, music integration, adaptive audio systems."
 risk: unknown
 source: community

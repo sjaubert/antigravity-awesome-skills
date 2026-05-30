@@ -1,6 +1,6 @@
 ---
 name: graphql
-category: uncategorized
+category: architecture
 description: "GraphQL gives clients exactly the data they need - no more, no less. One endpoint, typed schema, introspection. But the flexibility that makes it powerful also makes it dangerous. Without proper co..."
 risk: unknown
 source: "vibeship-spawner-skills (Apache 2.0)"

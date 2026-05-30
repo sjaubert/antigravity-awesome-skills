@@ -1,6 +1,6 @@
 ---
 name: tool-design
-category: uncategorized
+category: meta
 description: "Build tools that agents can use effectively, including architectural reduction patterns"
 risk: safe
 source: "https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering/tree/main/skills/tool-design"

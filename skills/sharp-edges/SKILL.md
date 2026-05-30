@@ -1,6 +1,6 @@
 ---
 name: sharp-edges
-category: uncategorized
+category: tooling/code-quality
 description: sharp-edges
 ---
 

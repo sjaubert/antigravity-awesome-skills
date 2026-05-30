@@ -1,6 +1,6 @@
 ---
 name: fix-review
-category: uncategorized
+category: tooling/code-quality
 description: "Verify fix commits address audit findings without new bugs"
 risk: safe
 source: "https://github.com/trailofbits/skills/tree/main/plugins/fix-review"

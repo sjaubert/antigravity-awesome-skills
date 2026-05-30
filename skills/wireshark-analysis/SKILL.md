@@ -1,6 +1,6 @@
 ---
 name: wireshark-analysis
-category: uncategorized
+category: security
 description: "This skill should be used when the user asks to \"analyze network traffic with Wireshark\", \"capture packets for troubleshooting\", \"filter PCAP files\", \"follow TCP/UDP streams\", \"dete..."
 risk: unknown
 source: community

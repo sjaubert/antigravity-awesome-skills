@@ -1,6 +1,6 @@
 ---
 name: using-neon
-category: uncategorized
+category: meta
 description: "Guides and best practices for working with Neon Serverless Postgres. Covers getting started, local development with Neon, choosing a connection method, Neon features, authentication (@neondatabase/..."
 risk: safe
 source: "https://github.com/neondatabase/agent-skills/tree/main/skills/neon-postgres"

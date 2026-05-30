@@ -1,6 +1,6 @@
 ---
 name: xlsx-official
-category: uncategorized
+category: content/writing
 description: "Comprehensive spreadsheet creation, editing, and analysis with support for formulas, formatting, data analysis, and visualization. When Claude needs to work with spreadsheets (.xlsx, .xlsm, .csv, ...."
 risk: unknown
 source: community

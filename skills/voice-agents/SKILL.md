@@ -1,6 +1,6 @@
 ---
 name: voice-agents
-category: uncategorized
+category: ai-ml
 description: "Voice agents represent the frontier of AI interaction - humans speaking naturally with AI systems. The challenge isn't just speech recognition and synthesis, it's achieving natural conversation flo..."
 risk: unknown
 source: "vibeship-spawner-skills (Apache 2.0)"

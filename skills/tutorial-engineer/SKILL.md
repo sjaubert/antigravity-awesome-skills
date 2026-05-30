@@ -1,6 +1,6 @@
 ---
 name: tutorial-engineer
-category: uncategorized
+category: content/writing
 description: Creates step-by-step tutorials and educational content from code. Transforms complex concepts into progressive learning experiences with hands-on examples.
 risk: safe
 source: community

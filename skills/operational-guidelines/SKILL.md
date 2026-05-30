@@ -1,6 +1,6 @@
 ---
 name: operational-guidelines
-category: uncategorized
+category: meta
 description: Operational Guidelines
 ---
 

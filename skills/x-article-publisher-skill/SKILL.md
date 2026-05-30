@@ -1,6 +1,6 @@
 ---
 name: x-article-publisher-skill
-category: uncategorized
+category: automation/social
 description: "Publish articles to X/Twitter"
 risk: safe
 source: "https://github.com/wshuyi/x-article-publisher-skill"

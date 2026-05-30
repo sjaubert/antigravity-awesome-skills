@@ -1,7 +1,7 @@
 ---
 name: impress
 description: "Presentation creation, format conversion (ODP/PPTX/PDF), slide automation with LibreOffice Impress."
-category: uncategorized
+category: frontend/design
 risk: safe
 source: personal
 date_added: "2026-02-27"

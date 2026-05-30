@@ -1,6 +1,6 @@
 ---
 name: umap
-category: uncategorized
+category: data-science
 description: Umap
 ---
 

@@ -1,6 +1,6 @@
 ---
 name: upstash-qstash
-category: uncategorized
+category: languages/typescript
 description: "Upstash QStash expert for serverless message queues, scheduled jobs, and reliable HTTP-based task delivery without managing infrastructure. Use when: qstash, upstash queue, serverless cron, schedul..."
 risk: unknown
 source: "vibeship-spawner-skills (Apache 2.0)"

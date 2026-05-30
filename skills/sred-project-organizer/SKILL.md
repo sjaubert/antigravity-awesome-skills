@@ -1,6 +1,6 @@
 ---
 name: sred-project-organizer
-category: uncategorized
+category: content/writing
 description: Take a list of projects and their related documentation, and organize them into the SRED format for submission.
 ---
 

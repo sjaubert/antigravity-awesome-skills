@@ -1,6 +1,6 @@
 ---
 name: browser-extension-builder
-category: uncategorized
+category: automation/tools
 description: "Expert in building browser extensions that solve real problems - Chrome, Firefox, and cross-browser extensions. Covers extension architecture, manifest v3, content scripts, popup UIs, monetization ..."
 risk: unknown
 source: "vibeship-spawner-skills (Apache 2.0)"

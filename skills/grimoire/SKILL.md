@@ -1,6 +1,6 @@
 ---
 name: grimoire
-category: uncategorized
+category: meta
 description: Grimoire
 ---
 

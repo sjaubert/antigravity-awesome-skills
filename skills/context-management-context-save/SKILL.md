@@ -1,6 +1,6 @@
 ---
 name: context-management-context-save
-category: uncategorized
+category: meta
 description: "Use when working with context management context save"
 risk: unknown
 source: community

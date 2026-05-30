@@ -1,6 +1,6 @@
 ---
 name: cc-skill-clickhouse-io
-category: uncategorized
+category: meta
 description: "ClickHouse database patterns, query optimization, analytics, and data engineering best practices for high-performance analytical workloads."
 risk: unknown
 source: community

@@ -1,6 +1,6 @@
 ---
 name: oss-hunter
-category: uncategorized
+category: business
 description: "Automatically hunt for high-impact OSS contribution opportunities in trending repositories."
 risk: safe
 source: "https://github.com/jackjin1997/ClawForge"

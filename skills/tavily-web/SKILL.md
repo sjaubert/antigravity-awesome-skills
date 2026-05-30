@@ -1,6 +1,6 @@
 ---
 name: tavily-web
-category: uncategorized
+category: ai-ml
 description: "Web search, content extraction, crawling, and research capabilities using Tavily API"
 risk: unknown
 source: community

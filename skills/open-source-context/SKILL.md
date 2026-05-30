@@ -1,6 +1,6 @@
 ---
 name: open-source-context
-category: uncategorized
+category: meta
 description: Open Source Context
 ---
 

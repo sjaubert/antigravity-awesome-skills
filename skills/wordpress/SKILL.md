@@ -1,7 +1,7 @@
 ---
 name: wordpress
 description: "Complete WordPress development workflow covering theme development, plugin creation, WooCommerce integration, performance optimization, and security hardening."
-category: uncategorized
+category: domains/ecommerce
 risk: safe
 source: personal
 date_added: "2026-02-27"

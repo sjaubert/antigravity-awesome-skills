@@ -1,6 +1,6 @@
 ---
 name: trello-automation
-category: uncategorized
+category: automation/project-management
 description: "Automate Trello boards, cards, and workflows via Rube MCP (Composio). Create cards, manage lists, assign members, and search across boards programmatically."
 risk: unknown
 source: community

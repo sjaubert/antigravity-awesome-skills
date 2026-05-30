@@ -1,6 +1,6 @@
 ---
 name: build
-category: uncategorized
+category: devops
 description: build
 ---
 

@@ -1,6 +1,6 @@
 ---
 name: research-engineer
-category: uncategorized
+category: business
 description: Research Engineer
 ---
 

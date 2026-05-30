@@ -1,6 +1,6 @@
 ---
 name: segment-cdp
-category: uncategorized
+category: automation/analytics
 description: "Expert patterns for Segment Customer Data Platform including Analytics.js, server-side tracking, tracking plans with Protocols, identity resolution, destinations configuration, and data governance ..."
 risk: unknown
 source: "vibeship-spawner-skills (Apache 2.0)"

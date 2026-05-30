@@ -1,6 +1,6 @@
 ---
 name: programmatic-seo
-category: uncategorized
+category: domains/seo
 description: Design and evaluate programmatic SEO strategies for creating SEO-driven pages at scale using templates and structured data.
 risk: unknown
 source: community

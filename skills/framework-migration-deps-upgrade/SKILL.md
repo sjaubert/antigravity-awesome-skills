@@ -1,6 +1,6 @@
 ---
 name: framework-migration-deps-upgrade
-category: uncategorized
+category: tooling/code-quality
 description: "You are a dependency management expert specializing in safe, incremental upgrades of project dependencies. Plan and execute dependency updates with minimal risk, proper testing, and clear migration pa"
 risk: unknown
 source: community

@@ -1,6 +1,6 @@
 ---
 name: claude-d3js-skill
-category: uncategorized
+category: meta
 description: "Creating interactive data visualisations using d3.js. This skill should be used when creating custom charts, graphs, network diagrams, geographic visualisations, or any complex SVG-based data visua..."
 risk: unknown
 source: community

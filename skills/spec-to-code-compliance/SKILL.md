@@ -1,6 +1,6 @@
 ---
 name: spec-to-code-compliance
-category: uncategorized
+category: tooling/code-quality
 description: Verifies code implements exactly what documentation specifies for blockchain audits. Use when comparing code against whitepapers, finding gaps between specs and implementation, or performing compliance checks for protocol implementations.
 ---
 

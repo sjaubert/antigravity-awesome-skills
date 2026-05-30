@@ -1,6 +1,6 @@
 ---
 name: search-specialist
-category: uncategorized
+category: ai-ml
 description: "Expert web researcher using advanced search techniques and"
 risk: unknown
 source: community
